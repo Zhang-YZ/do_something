@@ -10,9 +10,9 @@
 
 * lz4，gzip，bzip三种方法使用py包，7z和zip则调用7z程序
 
-![part_7z](.\part_7z.jpg)
+![part_7z](./use_7z_exe.jpg)
 
 * lz4使用py包，gzip，bzip，7z和zip则调用7z程序
 
-![part_7z](.\part_7z.jpg)
+![part_7z](./part_7z.jpg)
 
