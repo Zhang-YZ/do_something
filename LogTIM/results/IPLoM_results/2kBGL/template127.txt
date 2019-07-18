@@ -1,0 +1,1 @@
+1396	- 1126272208 2005.09.09 R50-M0-NF-C:J10-U01 2005-09-09-06.23.28.274924 R50-M0-NF-C:J10-U01 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 3, bit 6

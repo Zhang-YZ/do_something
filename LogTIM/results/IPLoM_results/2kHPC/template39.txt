@@ -1,0 +1,2 @@
+1444	2553390 Interconnect-1N03 switch_module error 1072641409 1 Link ok
+1445	2553308 Interconnect-1N03 switch_module error 1072638589 1 Link error

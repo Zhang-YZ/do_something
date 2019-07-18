@@ -1,0 +1,1 @@
+148	081111 023033 27 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: blk_-3681974396824196300 is added to invalidSet of 10.250.17.177:50010

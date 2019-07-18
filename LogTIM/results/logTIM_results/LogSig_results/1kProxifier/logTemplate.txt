@@ -1,0 +1,203 @@
+77	* * * - * * 611 bytes sent, 3207 bytes (3.13 KB) received, lifetime <1 *
+48	* * * - * * 1063 bytes * KB) sent, 6217 bytes * KB) received, lifetime *
+18	* * * - * * 3844 bytes (3.75 KB) sent, 120853 bytes (118 KB) received, lifetime *
+35	* 18:03:43] * - * * 9630 bytes * KB) sent, 32189 bytes (31.4 KB) received, lifetime *
+106	* * * - * * 710 bytes sent, 6596 bytes * KB) received, lifetime *
+121	* * * - * * 1270 bytes * KB) sent, 598 bytes received, lifetime *
+56	* * * - * * * bytes sent, 1108 bytes * KB) received, lifetime <1 *
+90	* * * - * * 930 bytes sent, 8911 bytes * KB) received, lifetime *
+73	* * * - * * 937 bytes sent, 3049 bytes * KB) received, lifetime <1 *
+193	* * * - * * * bytes * KB) sent, 4849 bytes (4.73 KB) received, lifetime <1 *
+125	* * * - * * 1357 bytes (1.32 KB) sent, 331 bytes received, lifetime *
+170	* * * - * * 1433 bytes (1.39 KB) sent, 688 bytes received, lifetime *
+140	* * * - * * 1791 bytes * KB) sent, 359 bytes received, lifetime *
+122	* * * - * * 522 bytes sent, 81588 bytes * KB) received, lifetime <1 *
+39	* * * - * * 983 bytes sent, 259565 bytes (253 KB) received, lifetime *
+165	* * * - * * 2862 bytes * KB) sent, 282 bytes received, lifetime *
+139	* * * - * * 1916 bytes * KB) sent, 997 bytes received, lifetime <1 *
+62	* * * - * * 2618 bytes * KB) sent, 2162149 bytes * MB) received, lifetime *
+101	* * * - * * 1391 bytes (1.35 KB) sent, 421 bytes received, lifetime <1 *
+179	* * * - * * 2231 bytes * KB) sent, 659 bytes received, lifetime *
+54	* * * - * * 1290 bytes * KB) sent, 4075 bytes (3.97 KB) received, lifetime *
+40	* * * - * * 983 bytes sent, 406691 bytes (397 KB) received, lifetime *
+189	* * * - * * 1065 bytes * KB) sent, 13063 bytes * KB) received, lifetime <1 *
+58	* * * - * * 1350 bytes (1.31 KB) sent, 272528 bytes (266 KB) received, lifetime *
+149	* * * - * * 874 bytes sent, 21041 bytes * KB) received, lifetime *
+147	* * * - * * 2757 bytes * KB) sent, 1218925 bytes * MB) received, lifetime *
+53	* * * - * * 1289 bytes * KB) sent, 2199 bytes * KB) received, lifetime *
+168	* * * - * * 2130 bytes * KB) sent, 816 bytes received, lifetime *
+185	* 21:05:33] * - * * 2601 bytes * KB) sent, 385 bytes received, lifetime *
+141	* * * - * * 1715 bytes * KB) sent, 565 bytes received, lifetime *
+81	* * * - * * * bytes sent, 52645 bytes * KB) received, lifetime *
+64	* * * - * * 527 bytes sent, 18109 bytes * KB) received, lifetime *
+102	* * * - * * 415 bytes sent, 2173 bytes * KB) received, lifetime *
+178	* * * - * * 618 bytes sent, 3235 bytes (3.15 KB) received, lifetime *
+174	* * * - * * 2484 bytes * KB) sent, * bytes received, lifetime *
+176	* * * - * * 1423 bytes (1.38 KB) sent, 503 bytes received, lifetime *
+1	[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, bytes KB) sent, bytes KB) received, lifetime
+28	* * * - * * 263 bytes sent, 2430 bytes (2.37 KB) received, lifetime <1 *
+158	* * * - * * 1111 bytes * KB) sent, * bytes received, lifetime <1 *
+31	* 18:03:35] * - * * 131 bytes sent, 153 bytes received, lifetime *
+173	* * * - * * 1174 bytes * KB) sent, 375 bytes received, lifetime *
+144	* * * - * * * bytes * KB) sent, 353 bytes received, lifetime *
+197	* * * - * * 1077 bytes * KB) sent, 2377 bytes (2.32 KB) received, lifetime <1 *
+11	* * * - * * 1311 bytes * KB) sent, 25356 bytes * KB) received, lifetime *
+198	* * * - * * 1081 bytes * KB) sent, 401 bytes received, lifetime *
+133	* * * - * * 1619 bytes * KB) sent, 4657 bytes * KB) received, lifetime <1 *
+103	* * * - * * 576 bytes sent, 3107 bytes (3.03 KB) received, lifetime *
+113	* * * - * * 553 bytes sent, 1424 bytes (1.39 KB) received, lifetime <1 *
+118	* * * - * * 519 bytes sent, 43718 bytes * KB) received, lifetime <1 *
+136	* * * - * * 1016 bytes sent, 43865 bytes * KB) received, lifetime *
+114	* * * - * * 929 bytes sent, 6675 bytes * KB) received, lifetime <1 *
+3	[10.30 WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 451 bytes sent, 353 bytes received, lifetime 00:01
+17	* * * - * * 1902 bytes * KB) sent, 28659 bytes * KB) received, lifetime *
+166	* * * - * * 2588 bytes * KB) sent, 317 bytes received, lifetime *
+96	* * * - * * 1318 bytes * KB) sent, 268 bytes received, lifetime <1 *
+59	* * * - * * 1398 bytes (1.36 KB) sent, 11654 bytes (11.3 KB) received, lifetime *
+45	* * * - * * 972 bytes sent, 784 bytes received, lifetime *
+190	* * * - * * 1065 bytes * KB) sent, * bytes * KB) received, lifetime <1 *
+12	* * * - * * 1744 bytes * KB) sent, * bytes * KB) received, lifetime *
+145	* * * - * * 2549 bytes * KB) sent, 586 bytes received, lifetime *
+23	* * * - * * 1348 bytes (1.31 KB) sent, 4313 bytes * KB) received, lifetime *
+38	* * * - * * 441 bytes sent, 687 bytes received, lifetime <1 *
+152	* * * - * * 2371 bytes (2.31 KB) sent, 911 bytes received, lifetime *
+195	* * * - * * 955 bytes sent, 14183 bytes (13.8 KB) received, lifetime <1 *
+42	* * * - * * 983 bytes sent, 254975 bytes (248 KB) received, lifetime *
+157	* * * - * * 2842 bytes * KB) sent, 279 bytes received, lifetime *
+148	* * * - * * 869 bytes sent, 3838 bytes (3.74 KB) received, lifetime *
+46	* 18:06:33] * - * * * bytes sent, * bytes received, lifetime *
+117	* * * - * * 1047 bytes * KB) sent, 271 bytes received, lifetime *
+108	* * * - * * 2367 bytes (2.31 KB) sent, 656 bytes received, lifetime *
+87	* * * - * * * bytes sent, 5219 bytes * KB) received, lifetime *
+159	* * * - * * 1173 bytes * KB) sent, 375 bytes received, lifetime *
+104	* * * - * * 576 bytes sent, 2283 bytes * KB) received, lifetime *
+177	* * * - * * 1455 bytes * KB) sent, 1794 bytes * KB) received, lifetime <1 *
+50	* * * - * * 1277 bytes * KB) sent, 3624 bytes (3.53 KB) received, lifetime *
+134	* * * - * * 531 bytes sent, 169018 bytes (165 KB) received, lifetime *
+34	* 18:03:43] * - * * 377 bytes sent, 39 bytes received, lifetime *
+127	* * * - * * 1106 bytes * KB) sent, * bytes received, lifetime *
+22	* * * - * * 1029 bytes * KB) sent, 59214 bytes * KB) received, lifetime *
+160	* * * - * * 2131 bytes * KB) sent, 816 bytes received, lifetime *
+111	* 20:43:43] * - * * 1916 bytes * KB) sent, 245 bytes received, lifetime *
+171	* * * - * * 1419 bytes (1.38 KB) sent, 681 bytes received, lifetime *
+41	* * * - * * 986 bytes sent, 252464 bytes (246 KB) received, lifetime *
+110	* * * - * * 1130 bytes * KB) sent, * bytes received, lifetime *
+120	* * * - * * 872 bytes sent, * bytes * KB) received, lifetime *
+92	* * * - * * 2221 bytes * KB) sent, 414 bytes received, lifetime *
+36	* 18:03:43] * - * * 5 bytes sent, 5 bytes received, lifetime *
+82	* * * - * * 474 bytes sent, 1047 bytes * KB) received, lifetime <1 *
+202	* * * *64 - * error : * not connect * proxy * - Proxy server cannot * a connection * * target, * * 403
+44	* * * - * * 2422 bytes (2.36 KB) sent, 99175 bytes * KB) received, lifetime *
+70	* * * - * * * bytes sent, 14916 bytes * KB) received, lifetime *
+107	* * * - * * 453 bytes sent, 11987 bytes * KB) received, lifetime *
+97	* * * - * * 1081 bytes * KB) sent, 685 bytes received, lifetime *
+95	* * * - * * 1193 bytes * KB) sent, 236 bytes received, lifetime *
+27	* * * - * * 5730 bytes * KB) sent, 6207 bytes * KB) received, lifetime *
+65	* * * - * * * bytes sent, * bytes received, lifetime <1 *
+93	* * * - * * 1341 bytes * KB) sent, 411 bytes received, lifetime *
+79	* * * - * * 485 bytes sent, 2246 bytes * KB) received, lifetime *
+162	* * * - * * 1423 bytes (1.38 KB) sent, 691 bytes received, lifetime <1 *
+116	* * * - * * 1341 bytes * KB) sent, * bytes received, lifetime *
+75	* * * - * * 533 bytes sent, 33923 bytes (33.1 KB) received, lifetime *
+61	* * * - * * * bytes * KB) sent, 22459 bytes * KB) received, lifetime *
+151	* * * - * * 2587 bytes * KB) sent, 317 bytes received, lifetime <1 *
+89	* * * - * * 1741 bytes * KB) sent, 158012 bytes (154 KB) received, lifetime <1 *
+84	* * * - * * 2154 bytes * KB) sent, 13765 bytes (13.4 KB) received, lifetime <1 *
+143	* * * - * * 3569 bytes * KB) sent, 310 bytes received, lifetime <1 *
+76	* * * - * * 533 bytes sent, 32991 bytes (32.2 KB) received, lifetime *
+155	* * * - * * 1429 bytes (1.39 KB) sent, 687 bytes received, lifetime <1 *
+109	* * * - * * * bytes * KB) sent, 217347 bytes (212 KB) received, lifetime <1 *
+146	* * * - * * 1744 bytes * KB) sent, 712 bytes received, lifetime *
+194	* * * - * * 978 bytes sent, 4286 bytes * KB) received, lifetime <1 *
+183	* * * - * * 388 bytes sent, * bytes * KB) received, lifetime <1 *
+66	* 18:13:30] * - * * 849 bytes sent, 9333 bytes * KB) received, lifetime *
+5	[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime
+24	* 18:03:13] * - * * 1051 bytes * KB) sent, 12029 bytes * KB) received, lifetime *
+26	* * * - * * * bytes sent, 683 bytes received, lifetime *
+78	* * * - * * 31257 bytes * KB) sent, 1846301 bytes * MB) received, lifetime 01:33
+67	* 18:13:30] * - * * 952 bytes sent, 13595 bytes (13.2 KB) received, lifetime *
+191	* * * - * * * bytes * KB) sent, 8612 bytes * KB) received, lifetime <1 *
+21	* * * - * * 319 bytes sent, 817 bytes received, lifetime *
+188	* * * - * * 1065 bytes * KB) sent, 11178 bytes * KB) received, lifetime <1 *
+9	* * * - * * 1071 bytes * KB) sent, 336 bytes received, lifetime <1 *
+199	* * * - * * 1055 bytes * KB) sent, 366 bytes received, lifetime *
+98	* * * - * * 2248 bytes * KB) sent, * bytes received, lifetime <1 *
+181	* * * - * * 1578 bytes * KB) sent, 702 bytes received, lifetime *
+10	* * * - * * 2928 bytes * KB) sent, 567520 bytes (554 KB) received, lifetime *
+119	* * * - * * 872 bytes sent, 18031 bytes * KB) received, lifetime *
+161	* * * - * * 2842 bytes * KB) sent, 282 bytes received, lifetime *
+112	* 20:43:43] * - * * 1213 bytes * KB) sent, 245 bytes received, lifetime *
+72	* * * - * * 2279 bytes * KB) sent, 279 bytes received, lifetime <1 *
+164	* * * - * * * bytes sent, 21970 bytes * KB) received, lifetime *
+60	* * * - * * 8796 bytes * KB) sent, 4701 bytes * KB) received, lifetime 13:52
+138	* * * - * * 921 bytes sent, 3271 bytes (3.19 KB) received, lifetime <1 *
+115	* * * - * * 1122 bytes * KB) sent, 735 bytes received, lifetime *
+142	* * * - * * 1501 bytes * KB) sent, 601 bytes received, lifetime *
+80	* * * - * * 1108 bytes * KB) sent, 881 bytes received, lifetime <1 *
+187	* * * - * * 2635 bytes * KB) sent, 816 bytes received, lifetime *
+100	* * * - * * 1388 bytes (1.35 KB) sent, 421 bytes received, lifetime <1 *
+7	* * * - * error : A connection * was * before * *
+47	* * * - * * * bytes sent, * bytes received, lifetime *
+86	* * * - * * 478 bytes sent, 31439 bytes * KB) received, lifetime *
+135	* * * - * * 1936 bytes * KB) sent, 1328 bytes * KB) received, lifetime <1 *
+29	* * * - * * 425 bytes sent, 322 bytes received, lifetime <1 *
+74	* * * - * * 583 bytes sent, 191464 bytes (186 KB) received, lifetime <1 *
+2	[10.30 YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.
+37	* * * - * * * bytes * KB) sent, 5441 bytes (5.31 KB) received, lifetime *
+129	* * * - * * 1357 bytes (1.32 KB) sent, * bytes received, lifetime <1 *
+6	[10.30 - error : Could not connect through proxy proxy.cse.cuhk.edu.hk:8000 - Proxy the connection
+14	* * * - * * 2217 bytes * KB) sent, 19738 bytes * KB) received, lifetime *
+52	* * * - * * 1549 bytes * KB) sent, 419 bytes received, lifetime *
+33	* * * - * * 11783 bytes * KB) sent, 7528 bytes (7.35 KB) received, lifetime *
+169	* * * - * * 2842 bytes * KB) sent, 279 bytes received, lifetime <1 *
+172	* * * - * * 2844 bytes * KB) sent, 279 bytes received, lifetime *
+182	* * * - * * 4498 bytes (4.39 KB) sent, 654 bytes received, lifetime *
+16	* * * - * * 856 bytes sent, 23556 bytes * KB) received, lifetime *
+25	* 18:03:13] * - * * 1241 bytes * KB) sent, 3341 bytes (3.26 KB) received, lifetime *
+163	* * * - * * 1359 bytes (1.32 KB) sent, 378 bytes received, lifetime *
+167	* * * - * * 2482 bytes * KB) sent, * bytes received, lifetime *
+88	* * * - * * 1386 bytes (1.35 KB) sent, 230676 bytes (225 KB) received, lifetime <1 *
+154	* * * - * * 1411 bytes (1.37 KB) sent, 375 bytes received, lifetime *
+68	* 18:13:31] * - * * 976 bytes sent, 7259 bytes * KB) received, lifetime *
+126	* * * - * * 1167 bytes (1.13 KB) sent, 340 bytes received, lifetime <1 *
+150	* * * - * * 2841 bytes * KB) sent, 279 bytes received, lifetime *
+192	* * * - * * 526 bytes sent, 4750 bytes (4.63 KB) received, lifetime <1 *
+124	* * * - * * 2603 bytes * KB) sent, 1016 bytes received, lifetime *
+99	* * * - * * 2713 bytes * KB) sent, 857 bytes received, lifetime *
+4	[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+15	* * * - * * 1933 bytes * KB) sent, * bytes * KB) received, lifetime *
+19	* * * - * error : * not connect * proxy * - Proxy server cannot * a connection * * target, * * 403
+57	* * * - * * 2174 bytes * KB) sent, * bytes * KB) received, lifetime *
+94	* * * - * * 2286 bytes (2.23 KB) sent, 417 bytes received, lifetime *
+85	* * * - * * 1510 bytes * KB) sent, 750 bytes received, lifetime *
+123	* * * - * * * bytes * KB) sent, 282 bytes received, lifetime <1 *
+180	* * * - * * 1455 bytes * KB) sent, * bytes * KB) received, lifetime <1 *
+203	* * * - * * 357 bytes sent, 3481 bytes (3.39 KB) received, lifetime <1 *
+63	* * * - * * * bytes * KB) sent, * bytes * KB) received, lifetime *
+55	* * * - * * 1403 bytes (1.37 KB) sent, 53117 bytes * KB) received, lifetime *
+132	* * * - * * 1682 bytes * KB) sent, 1794 bytes * KB) received, lifetime <1 *
+175	* * * - * * 1107 bytes * KB) sent, * bytes received, lifetime *
+137	* * * - * * 869 bytes sent, 4273 bytes * KB) received, lifetime *
+186	* * * - * * * bytes sent, 7460 bytes * KB) received, lifetime <1 *
+30	* * * - * * 812 bytes sent, 629 bytes received, lifetime *
+128	* * * - * * 2217 bytes * KB) sent, 812 bytes received, lifetime *
+91	* * * - * * 930 bytes sent, 9471 bytes * KB) received, lifetime *
+69	* * * - * * 1929 bytes * KB) sent, 353 bytes received, lifetime *
+8	* * * - * open * proxy * HTTPS
+49	* * * - * * 1297 bytes * KB) sent, 14015 bytes (13.6 KB) received, lifetime <1 *
+184	* * * - * * 259 bytes sent, * bytes (9.63 KB) received, lifetime <1 *
+200	* * * - * * 1470 bytes (1.43 KB) sent, * bytes received, lifetime *
+20	* * * - * * 14685 bytes (14.3 KB) sent, 6899 bytes (6.73 KB) received, lifetime *
+201	* * * - * * 1303 bytes * KB) sent, 1026 bytes * KB) received, lifetime <1 *
+71	* * * - * * 2279 bytes * KB) sent, 279 bytes received, lifetime *
+83	* * * - * * 675 bytes sent, 7178 bytes * KB) received, lifetime <1 *
+13	* * * - * * 2973 bytes * KB) sent, 29232 bytes * KB) received, lifetime *
+105	* * * - * * 1345 bytes (1.31 KB) sent, 472 bytes received, lifetime *
+153	* * * - * * 1171 bytes * KB) sent, 375 bytes received, lifetime *
+43	* * * - * * 1748 bytes * KB) sent, 6426 bytes * KB) received, lifetime *
+131	* * * - * * 783 bytes sent, * bytes * KB) received, lifetime *
+196	* * * - * * 1168 bytes * KB) sent, 4843 bytes * KB) received, lifetime <1 *
+156	* * * - * * 2382 bytes (2.32 KB) sent, 750 bytes received, lifetime *
+51	* * * - * * 1277 bytes * KB) sent, 1203 bytes * KB) received, lifetime *
+32	* 18:03:38] * - * * 4381 bytes * KB) sent, * bytes * KB) received, lifetime *
+130	* * * - * * 477 bytes sent, 21823 bytes (21.3 KB) received, lifetime *

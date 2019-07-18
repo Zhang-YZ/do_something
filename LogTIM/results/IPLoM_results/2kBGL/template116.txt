@@ -1,0 +1,1 @@
+370	- 1119381883 2005.06.21 R05-M1-N8-C:J13-U01 2005-06-21-12.24.43.265881 R05-M1-N8-C:J13-U01 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1

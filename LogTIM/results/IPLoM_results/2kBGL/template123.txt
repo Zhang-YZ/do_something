@@ -1,0 +1,1 @@
+1267	- 1124519271 2005.08.19 R60-M1-N7-C:J16-U11 2005-08-19-23.27.51.734783 R60-M1-N7-C:J16-U11 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 10, bit 0

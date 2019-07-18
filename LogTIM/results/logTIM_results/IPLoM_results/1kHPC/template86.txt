@@ -1,0 +1,1 @@
+981	225253 node-17 unix.hw net.niff.up 1117296958 1 NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0

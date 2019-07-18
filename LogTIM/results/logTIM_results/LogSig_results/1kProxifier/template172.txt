@@ -1,0 +1,4 @@
+687	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+709	[10.30 20:47:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+723	[10.30 20:47:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:02
+752	[10.30 20:48:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:04

@@ -1,0 +1,4 @@
+325	284487 node-D3 clusterfilesystem fdmn.full 1080155118 1 ServerFileSystem: ServerFileSystem domain root22_local is full
+328	389984 node-D3 clusterfilesystem fdmn.full 1087531181 1 ServerFileSystem: ServerFileSystem domain root7_local is full
+331	177934 node-D3 clusterfilesystem fdmn.full 1114546822 1 ServerFileSystem: ServerFileSystem domain root3_local is full
+334	218505 node-D3 clusterfilesystem fdmn.full 1117130918 1 ServerFileSystem: ServerFileSystem domain root22_local is full

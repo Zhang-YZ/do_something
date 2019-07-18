@@ -1,0 +1,4 @@
+120	081111 004102 17259 WARN dfs.DataNode$DataXceiver: Got exception while serving to
+122	081111 011254 17716 WARN dfs.DataNode$DataXceiver: Got exception while serving to
+123	081111 012254 17517 WARN dfs.DataNode$DataXceiver: Got exception while serving to
+127	081111 014431 17416 WARN dfs.DataNode$DataXceiver: Got exception while serving to

@@ -1,0 +1,2 @@
+964	2015-07-30 19:57:45,009 - INFO  [CommitProcessor:3:ZooKeeperServer@595] - Established session 0x34ede65503f002d with negotiated timeout 20000 for client /10.10.34.11:51041
+973	2015-07-30 21:01:49,990 - INFO  [CommitProcessor:3:ZooKeeperServer@595] - Established session 0x34ede65503f0058 with negotiated timeout 20000 for client /10.10.34.11:51967

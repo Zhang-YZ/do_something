@@ -1,0 +1,1 @@
+1199	- 1122627016 2005.07.29 R36-M0-NA-C:J13-U01 2005-07-29-01.50.16.378824 R36-M0-NA-C:J13-U01 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6

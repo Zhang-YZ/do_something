@@ -1,0 +1,28 @@
+logTIM processing
+trainData_path: /home/chenyihao/LogTIM/results/LogSig_results/1kHDFS_head
+logFile_path: /home/chenyihao/LogTIM/data/1kHDFS_tail/rawlog.log
+rawLog_path: /home/chenyihao/LogTIM/data/1kHDFS_head
+geneData_path: /home/chenyihao/LogTIM/results/logTIM_results/LogSig_results/1kHDFS
+gtData_path: /home/chenyihao/LogTIM/data/1kHDFS_tail
+rex: ['blk_(|-)[0-9]+', '(/|)([0-9]+\\.){3}[0-9]+(:[0-9]+|)(:|)']
+realtime: False
+*********************************************
+Original template num: 14
+Data loaded from /home/chenyihao/LogTIM/results/LogSig_results/1kHDFS_head, trainning rate is 1.000000
+train_data shape is (216, 94)
+testing_data shape is (0,)
+SVM classifier
+*********************************************
+read 1000 lines from /home/chenyihao/LogTIM/data/1kHDFS_tail/rawlog.log
+final template num: 221
+time:  0.14916419982910156
+groundTruthDataPath: /home/chenyihao/LogTIM/data/1kHDFS_tail/
+/home/chenyihao/LogTIM/data/1kHDFS_tail/rawlog.log
+gtLogLabel(all elements are -1): (1000, 1)
+GT clusters are altogether 13 files
+Result clusters are altogether 221 files
+TP,FP,TN,FN are: 38247.0 20702.0 407433.0 33118.0
+precision is 0.6488
+recall is 0.5359
+F measure is 0.5870
+RI is 0.8923

@@ -1,0 +1,1 @@
+1496	- 1129273479 2005.10.14 R07-M1-NA-C:J09-U01 2005-10-14-00.04.39.329001 R07-M1-NA-C:J09-U01 RAS KERNEL INFO 4 ddr errors(s) detected and corrected on rank 0, symbol 13, bit 5

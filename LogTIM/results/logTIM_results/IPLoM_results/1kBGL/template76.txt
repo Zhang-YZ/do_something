@@ -1,0 +1,1 @@
+933	- 1133625592 2005.12.03 R06-M1-NF-C:J12-U01 2005-12-03-07.59.52.640827 R06-M1-NF-C:J12-U01 RAS KERNEL INFO 1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 seconds

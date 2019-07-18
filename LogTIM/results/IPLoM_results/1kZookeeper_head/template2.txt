@@ -1,0 +1,14 @@
+496	2015-07-29 19:52:05,118 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+536	2015-07-30 17:11:54,937 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+538	2015-07-30 17:22:34,245 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+546	2015-07-30 19:50:21,400 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+554	2015-07-30 20:17:12,294 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+557	2015-07-30 21:03:35,465 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+574	2015-07-31 00:19:18,655 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+575	2015-07-31 00:19:19,582 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+594	2015-07-31 21:24:43,960 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+601	2015-08-10 17:53:06,869 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+605	2015-08-10 18:12:24,076 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+606	2015-08-10 18:12:24,375 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+617	2015-08-10 18:25:39,907 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
+633	2015-08-20 19:33:02,860 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception

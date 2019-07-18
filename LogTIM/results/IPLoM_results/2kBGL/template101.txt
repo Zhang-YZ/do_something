@@ -1,0 +1,1 @@
+1380	- 1125668117 2005.09.02 R72-M1-N4-I:J18-U01 2005-09-02-06.35.17.592760 R72-M1-N4-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory

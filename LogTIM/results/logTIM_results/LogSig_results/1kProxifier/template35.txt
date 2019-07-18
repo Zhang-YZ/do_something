@@ -1,0 +1,1 @@
+57	[10.30 18:03:43] Skype.exe - 213.199.179.159:443 close, 9630 bytes (9.40 KB) sent, 32189 bytes (31.4 KB) received, lifetime 01:01

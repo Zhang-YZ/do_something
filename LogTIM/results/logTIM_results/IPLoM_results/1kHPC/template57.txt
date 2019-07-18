@@ -1,0 +1,1 @@
+919	2612551 node-73 unix.hw net.niff.up 1074535576 1 NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0

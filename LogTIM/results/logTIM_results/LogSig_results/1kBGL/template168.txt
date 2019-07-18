@@ -1,0 +1,8 @@
+413	- 1127163833 2005.09.19 R32-M1-N0-I:J18-U01 2005-09-19-14.03.53.806037 R32-M1-N0-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/home/yates/SWL_tests/BGL64k_SWL_tests_develop/MPI-VAL/MPITs_v050902/rundir) failed: No such file or directory
+451	- 1127265314 2005.09.20 R27-M1-N4-I:J18-U01 2005-09-20-18.15.14.037829 R27-M1-N4-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+452	- 1127265535 2005.09.20 R23-M1-N8-I:J18-U11 2005-09-20-18.18.55.570301 R23-M1-N8-I:J18-U11 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory
+453	- 1127265666 2005.09.20 R54-M1-N4-I:J18-U11 2005-09-20-18.21.06.263282 R54-M1-N4-I:J18-U11 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+454	- 1127265731 2005.09.20 R16-M1-N4-I:J18-U11 2005-09-20-18.22.11.721083 R16-M1-N4-I:J18-U11 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.08) failed: No such file or directory
+455	- 1127265777 2005.09.20 R62-M1-N8-I:J18-U01 2005-09-20-18.22.57.490109 R62-M1-N8-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory
+805	- 1133409475 2005.11.30 R15-M1-NC-I:J18-U01 2005-11-30-19.57.55.220367 R15-M1-NC-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
+806	- 1133409779 2005.11.30 R13-M1-NC-I:J18-U01 2005-11-30-20.02.59.033978 R13-M1-NC-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory

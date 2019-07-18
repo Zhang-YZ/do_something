@@ -1,0 +1,1 @@
+480	2579066 Interconnect-1N02 switch_module error 1074207069 1 Linkerror event interval expired

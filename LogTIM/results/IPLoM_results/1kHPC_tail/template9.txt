@@ -1,0 +1,2 @@
+942	252431 node- unix.hw net.niff.up 1079068798 1 NIFF: node node- has detected an available network connection on network via interface scip0
+980	211427 node- unix.hw net.niff.up 1116610182 1 NIFF: node node- has detected an available network connection on network via interface scip0

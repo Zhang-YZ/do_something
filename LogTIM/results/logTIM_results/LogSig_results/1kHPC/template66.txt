@@ -1,0 +1,1 @@
+34	96925 node-238 node temperature 1110105780 1 ambient=29

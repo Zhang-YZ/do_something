@@ -1,0 +1,1 @@
+923	2015-07-29 19:55:01,647 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.13:54294 (no session established for client)

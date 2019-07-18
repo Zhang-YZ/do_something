@@ -1,0 +1,1 @@
+1738	- 1131632923 2005.11.10 R34-M1-N4-C:J10-U01 2005-11-10-06.28.43.189795 R34-M1-N4-C:J10-U01 RAS KERNEL INFO 2 ddr errors(s) detected and corrected on rank 0, symbol 4, bit 4

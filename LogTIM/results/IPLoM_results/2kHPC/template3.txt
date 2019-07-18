@@ -1,0 +1,2 @@
+212	365140 node- unix.hw net.niff.down 1085075228 1 NIFF: node node- detected a failed network connection on network via interface alt0
+213	401608 node- unix.hw net.niff.down 1142550442 1 NIFF: node node- detected a failed network connection on network via interface alt0

@@ -1,0 +1,1 @@
+413	2015-08-10 18:25:27,964 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@832] - Client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969

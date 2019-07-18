@@ -1,0 +1,1 @@
+788	APPSEV 1132853885 2005.11.24 R14-M0-N8-I:J18-U01 2005-11-24-09.38.05.459006 R14-M0-N8-I:J18-U01 RAS APP FATAL ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41534, Link has been severed

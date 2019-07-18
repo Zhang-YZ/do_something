@@ -1,0 +1,1000 @@
+1	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+2	check pass; user unknown
+3	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+4	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+5	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+6	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+7	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+8	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+9	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+10	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+11	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+12	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+13	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root
+14	session opened for user cyrus by (uid=0)
+15	session closed for user cyrus
+16	ALERT exited abnormally with [1]
+17	session opened for user news by (uid=0)
+18	session closed for user news
+19	check pass; user unknown
+20	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+21	check pass; user unknown
+22	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+23	check pass; user unknown
+24	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+25	check pass; user unknown
+26	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+27	check pass; user unknown
+28	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+29	check pass; user unknown
+30	check pass; user unknown
+31	check pass; user unknown
+32	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+33	check pass; user unknown
+34	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+35	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+36	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+37	check pass; user unknown
+38	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+39	check pass; user unknown
+40	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+41	check pass; user unknown
+42	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4
+43	check pass; user unknown
+44	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+45	check pass; user unknown
+46	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+47	check pass; user unknown
+48	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+49	check pass; user unknown
+50	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+51	check pass; user unknown
+52	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+53	check pass; user unknown
+54	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+55	check pass; user unknown
+56	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+57	check pass; user unknown
+58	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+59	check pass; user unknown
+60	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+61	check pass; user unknown
+62	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com
+63	check pass; user unknown
+64	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+65	check pass; user unknown
+66	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+67	check pass; user unknown
+68	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+69	check pass; user unknown
+70	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+71	check pass; user unknown
+72	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net
+73	session opened for user cyrus by (uid=0)
+74	session closed for user cyrus
+75	ALERT exited abnormally with [1]
+76	session opened for user news by (uid=0)
+77	session closed for user news
+78	session opened for user cyrus by (uid=0)
+79	session closed for user cyrus
+80	ALERT exited abnormally with [1]
+81	session opened for user news by (uid=0)
+82	session closed for user news
+83	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+84	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+85	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+86	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+87	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+88	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+89	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:02 2005
+90	connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:04 2005
+91	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest
+92	session opened for user test by (uid=509)
+93	session closed for user test
+94	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+95	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+96	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+97	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+98	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+99	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005
+100	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005
+101	check pass; user unknown
+102	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+103	check pass; user unknown
+104	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+105	check pass; user unknown
+106	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+107	check pass; user unknown
+108	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+109	check pass; user unknown
+110	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+111	check pass; user unknown
+112	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+113	check pass; user unknown
+114	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+115	check pass; user unknown
+116	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+117	check pass; user unknown
+118	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+119	check pass; user unknown
+120	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
+121	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+122	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+123	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+124	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+125	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+126	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+127	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005
+128	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+129	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+130	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+131	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+132	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005
+133	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005
+134	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005
+135	connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005
+136	User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005
+137	session opened for user cyrus by (uid=0)
+138	session closed for user cyrus
+139	ALERT exited abnormally with [1]
+140	session opened for user news by (uid=0)
+141	session closed for user news
+142	session opened for user cyrus by (uid=0)
+143	session closed for user cyrus
+144	cupsd shutdown succeeded
+145	cupsd startup succeeded
+146	restart.
+147	ALERT exited abnormally with [1]
+148	session opened for user news by (uid=0)
+149	session closed for user news
+150	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+151	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+152	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+153	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+154	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+155	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+156	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+157	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+158	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+159	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+160	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+161	connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+162	session opened for user cyrus by (uid=0)
+163	session closed for user cyrus
+164	ALERT exited abnormally with [1]
+165	session opened for user news by (uid=0)
+166	session closed for user news
+167	Received SNMP packet(s) from 67.170.148.126
+168	check pass; user unknown
+169	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+170	check pass; user unknown
+171	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+172	check pass; user unknown
+173	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+174	check pass; user unknown
+175	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+176	check pass; user unknown
+177	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+178	check pass; user unknown
+179	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+180	check pass; user unknown
+181	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+182	check pass; user unknown
+183	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+184	check pass; user unknown
+185	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+186	check pass; user unknown
+187	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+188	session opened for user cyrus by (uid=0)
+189	session closed for user cyrus
+190	ALERT exited abnormally with [1]
+191	session opened for user news by (uid=0)
+192	session closed for user news
+193	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+194	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+195	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+196	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+197	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+198	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest
+199	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+200	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+201	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+202	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+203	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+204	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+205	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+206	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+207	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+208	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+209	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+210	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+211	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+212	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+213	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+214	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+215	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+216	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+217	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+218	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+219	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+220	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+221	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root
+222	session opened for user cyrus by (uid=0)
+223	session closed for user cyrus
+224	ALERT exited abnormally with [1]
+225	session opened for user news by (uid=0)
+226	session closed for user news
+227	check pass; user unknown
+228	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+229	check pass; user unknown
+230	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+231	check pass; user unknown
+232	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+233	check pass; user unknown
+234	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+235	check pass; user unknown
+236	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+237	check pass; user unknown
+238	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+239	check pass; user unknown
+240	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+241	check pass; user unknown
+242	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+243	check pass; user unknown
+244	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+245	check pass; user unknown
+246	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+247	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+248	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+249	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+250	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+251	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+252	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+253	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+254	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+255	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+256	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+257	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+258	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+259	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+260	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+261	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+262	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+263	connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005
+264	connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+265	connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+266	connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+267	connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+268	connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005
+269	connection from 210.245.165.136 () at Wed Jun 22 13:16:32 2005
+270	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+271	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+272	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+273	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+274	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+275	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+276	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+277	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+278	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+279	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest
+280	check pass; user unknown
+281	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201
+282	session opened for user cyrus by (uid=0)
+283	session closed for user cyrus
+284	ALERT exited abnormally with [1]
+285	session opened for user news by (uid=0)
+286	session closed for user news
+287	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+288	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+289	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+290	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+291	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+292	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+293	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+294	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+295	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root
+296	session opened for user cyrus by (uid=0)
+297	session closed for user cyrus
+298	ALERT exited abnormally with [1]
+299	session opened for user news by (uid=0)
+300	session closed for user news
+301	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+302	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+303	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+304	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+305	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+306	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+307	connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+308	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+309	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+310	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+311	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+312	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+313	connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+314	session opened for user cyrus by (uid=0)
+315	session closed for user cyrus
+316	ALERT exited abnormally with [1]
+317	session opened for user news by (uid=0)
+318	session closed for user news
+319	check pass; user unknown
+320	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+321	check pass; user unknown
+322	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+323	check pass; user unknown
+324	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+325	check pass; user unknown
+326	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+327	check pass; user unknown
+328	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+329	check pass; user unknown
+330	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+331	check pass; user unknown
+332	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+333	check pass; user unknown
+334	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+335	check pass; user unknown
+336	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+337	check pass; user unknown
+338	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+339	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+340	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+341	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+342	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+343	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+344	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+345	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+346	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+347	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+348	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+349	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+350	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+351	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+352	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+353	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+354	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+355	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+356	connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+357	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+358	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+359	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+360	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+361	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+362	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+363	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+364	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+365	connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+366	connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+367	connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+368	connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+369	connection from 211.167.68.59 () at Sat Jun 25 19:25:34 2005
+370	session opened for user cyrus by (uid=0)
+371	session closed for user cyrus
+372	cupsd shutdown succeeded
+373	cupsd startup succeeded
+374	restart.
+375	ALERT exited abnormally with [1]
+376	session opened for user news by (uid=0)
+377	session closed for user news
+378	session opened for user cyrus by (uid=0)
+379	session closed for user cyrus
+380	ALERT exited abnormally with [1]
+381	session opened for user news by (uid=0)
+382	session closed for user news
+383	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+384	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+385	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+386	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+387	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+388	session opened for user cyrus by (uid=0)
+389	session closed for user cyrus
+390	ALERT exited abnormally with [1]
+391	session opened for user news by (uid=0)
+392	session closed for user news
+393	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+394	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+395	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+396	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+397	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+398	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+399	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+400	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+401	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root
+402	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+403	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+404	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+405	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+406	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+407	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+408	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+409	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+410	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+411	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root
+412	check pass; user unknown
+413	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+414	check pass; user unknown
+415	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+416	check pass; user unknown
+417	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+418	check pass; user unknown
+419	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+420	check pass; user unknown
+421	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155
+422	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+423	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+424	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+425	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+426	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+427	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+428	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+429	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+430	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+431	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+432	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+433	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+434	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+435	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+436	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+437	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+438	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+439	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+440	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+441	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+442	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+443	connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005
+444	connection from 61.74.96.178 () at Wed Jun 29 03:22:23 2005
+445	session opened for user cyrus by (uid=0)
+446	session closed for user cyrus
+447	ALERT exited abnormally with [1]
+448	session opened for user news by (uid=0)
+449	session closed for user news
+450	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+451	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+452	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+453	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+454	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+455	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+456	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+457	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+458	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+459	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root
+460	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+461	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+462	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+463	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+464	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+465	connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005
+466	connection from 208.62.55.75 () at Wed Jun 29 10:48:05 2005
+467	connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005
+468	connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005
+469	connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005
+470	connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005
+471	connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005
+472	connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005
+473	connection from 208.62.55.75 () at Wed Jun 29 10:48:10 2005
+474	connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005
+475	connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005
+476	connection from 208.62.55.75 () at Wed Jun 29 10:48:13 2005
+477	connection from 208.62.55.75 () at Wed Jun 29 10:48:15 2005
+478	connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005
+479	connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005
+480	connection from 208.62.55.75 () at Wed Jun 29 10:48:18 2005
+481	connection from 208.62.55.75 () at Wed Jun 29 10:48:20 2005
+482	connection from 208.62.55.75 () at Wed Jun 29 10:48:21 2005
+483	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+484	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+485	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+486	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+487	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+488	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+489	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+490	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+491	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+492	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+493	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+494	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+495	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+496	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+497	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+498	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+499	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+500	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+501	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+502	connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005
+503	session opened for user cyrus by (uid=0)
+504	session closed for user cyrus
+505	ALERT exited abnormally with [1]
+506	session opened for user news by (uid=0)
+507	session closed for user news
+508	check pass; user unknown
+509	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+510	check pass; user unknown
+511	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+512	check pass; user unknown
+513	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+514	check pass; user unknown
+515	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+516	check pass; user unknown
+517	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+518	check pass; user unknown
+519	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+520	check pass; user unknown
+521	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+522	check pass; user unknown
+523	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl
+524	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+525	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+526	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+527	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+528	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+529	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+530	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+531	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+532	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+533	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+534	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+535	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+536	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+537	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+538	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+539	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+540	Kerberos authentication failed
+541	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+542	Kerberos authentication failed
+543	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+544	Kerberos authentication failed
+545	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+546	Kerberos authentication failed
+547	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+548	Kerberos authentication failed
+549	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+550	Kerberos authentication failed
+551	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+552	Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+553	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+554	Kerberos authentication failed
+555	Kerberos authentication failed
+556	Kerberos authentication failed
+557	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+558	Kerberos authentication failed
+559	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+560	Kerberos authentication failed
+561	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+562	Kerberos authentication failed
+563	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+564	Kerberos authentication failed
+565	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+566	Kerberos authentication failed
+567	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+568	Kerberos authentication failed
+569	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+570	Kerberos authentication failed
+571	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+572	Kerberos authentication failed
+573	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+574	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+575	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+576	Kerberos authentication failed
+577	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+578	Kerberos authentication failed
+579	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+580	Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+581	Kerberos authentication failed
+582	Kerberos authentication failed
+583	Kerberos authentication failed
+584	Kerberos authentication failed
+585	session opened for user test by (uid=509)
+586	session opened for user test by (uid=509)
+587	session opened for user test by (uid=509)
+588	session opened for user test by (uid=509)
+589	session opened for user test by (uid=509)
+590	session opened for user test by (uid=509)
+591	session opened for user test by (uid=509)
+592	session opened for user test by (uid=509)
+593	session closed for user test
+594	session closed for user test
+595	session opened for user test by (uid=509)
+596	session opened for user test by (uid=509)
+597	session closed for user test
+598	session closed for user test
+599	session closed for user test
+600	session closed for user test
+601	session closed for user test
+602	session closed for user test
+603	session closed for user test
+604	session closed for user test
+605	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+606	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+607	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+608	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+609	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+610	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+611	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+612	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+613	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+614	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root
+615	session opened for user cyrus by (uid=0)
+616	session closed for user cyrus
+617	ALERT exited abnormally with [1]
+618	session opened for user news by (uid=0)
+619	session closed for user news
+620	session opened for user test by (uid=509)
+621	session closed for user test
+622	session opened for user test by (uid=509)
+623	session closed for user test
+624	session opened for user test by (uid=509)
+625	session closed for user test
+626	session opened for user test by (uid=509)
+627	session closed for user test
+628	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+629	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+630	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+631	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+632	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+633	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+634	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+635	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+636	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+637	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+638	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+639	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+640	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+641	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+642	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+643	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+644	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+645	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+646	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+647	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+648	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+649	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+650	connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005
+651	session opened for user test by (uid=509)
+652	session opened for user test by (uid=509)
+653	session closed for user test
+654	session opened for user test by (uid=509)
+655	session closed for user test
+656	session opened for user test by (uid=509)
+657	session closed for user test
+658	session closed for user test
+659	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+660	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+661	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+662	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+663	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+664	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+665	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+666	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+667	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+668	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root
+669	session opened for user test by (uid=509)
+670	session opened for user test by (uid=509)
+671	session opened for user test by (uid=509)
+672	session opened for user test by (uid=509)
+673	session closed for user test
+674	session closed for user test
+675	session closed for user test
+676	session closed for user test
+677	session opened for user test by (uid=509)
+678	session closed for user test
+679	session opened for user test by (uid=509)
+680	session opened for user test by (uid=509)
+681	session opened for user test by (uid=509)
+682	session closed for user test
+683	session closed for user test
+684	session closed for user test
+685	session opened for user cyrus by (uid=0)
+686	session closed for user cyrus
+687	ALERT exited abnormally with [1]
+688	session opened for user news by (uid=0)
+689	session closed for user news
+690	check pass; user unknown
+691	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+692	check pass; user unknown
+693	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+694	check pass; user unknown
+695	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+696	check pass; user unknown
+697	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+698	check pass; user unknown
+699	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+700	check pass; user unknown
+701	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+702	check pass; user unknown
+703	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+704	check pass; user unknown
+705	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+706	check pass; user unknown
+707	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+708	check pass; user unknown
+709	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+710	session opened for user cyrus by (uid=0)
+711	session closed for user cyrus
+712	cupsd shutdown succeeded
+713	cupsd startup succeeded
+714	restart.
+715	ALERT exited abnormally with [1]
+716	session opened for user news by (uid=0)
+717	session closed for user news
+718	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+719	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+720	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+721	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+722	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+723	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+724	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+725	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+726	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+727	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+728	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+729	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+730	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+731	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+732	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+733	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+734	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+735	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+736	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+737	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+738	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+739	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+740	connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005
+741	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+742	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+743	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+744	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+745	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+746	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+747	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+748	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+749	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+750	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+751	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+752	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+753	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+754	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+755	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+756	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+757	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+758	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+759	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+760	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+761	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+762	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+763	connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005
+764	session opened for user cyrus by (uid=0)
+765	session closed for user cyrus
+766	ALERT exited abnormally with [1]
+767	session opened for user news by (uid=0)
+768	session closed for user news
+769	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+770	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+771	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root
+772	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+773	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+774	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+775	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+776	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+777	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+778	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+779	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+780	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+781	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+782	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+783	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+784	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+785	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+786	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+787	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+788	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+789	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+790	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+791	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+792	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+793	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+794	connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005
+795	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+796	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+797	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+798	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+799	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+800	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+801	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+802	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+803	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+804	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+805	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+806	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+807	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root
+808	session opened for user cyrus by (uid=0)
+809	session closed for user cyrus
+810	ALERT exited abnormally with [1]
+811	session opened for user news by (uid=0)
+812	session closed for user news
+813	check pass; user unknown
+814	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+815	check pass; user unknown
+816	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+817	check pass; user unknown
+818	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+819	check pass; user unknown
+820	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+821	check pass; user unknown
+822	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228
+823	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+824	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+825	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+826	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+827	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+828	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+829	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+830	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+831	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+832	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+833	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+834	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+835	connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005
+836	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+837	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+838	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+839	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+840	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+841	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+842	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+843	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+844	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+845	connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005
+846	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+847	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+848	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+849	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+850	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root
+851	session opened for user cyrus by (uid=0)
+852	session closed for user cyrus
+853	ALERT exited abnormally with [1]
+854	session opened for user news by (uid=0)
+855	session closed for user news
+856	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+857	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+858	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+859	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+860	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+861	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+862	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+863	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+864	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+865	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+866	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+867	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+868	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+869	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+870	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+871	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+872	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+873	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+874	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+875	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+876	connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005
+877	connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005
+878	connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005
+879	session opened for user cyrus by (uid=0)
+880	session closed for user cyrus
+881	ALERT exited abnormally with [1]
+882	session opened for user news by (uid=0)
+883	session closed for user news
+884	session opened for user test by (uid=509)
+885	session opened for user test by (uid=509)
+886	session closed for user test
+887	session opened for user test by (uid=509)
+888	session closed for user test
+889	session closed for user test
+890	session opened for user test by (uid=509)
+891	session opened for user test by (uid=509)
+892	session closed for user test
+893	session opened for user test by (uid=509)
+894	session closed for user test
+895	session closed for user test
+896	*** info [mice.c(1766)]:
+897	imps2: Auto-detected intellimouse PS/2
+898	session opened for user root by LOGIN(uid=0)
+899	ROOT LOGIN ON tty2
+900	session closed for user root
+901	removing device node '/udev/vcsa2'
+902	removing device node '/udev/vcs2'
+903	creating device node '/udev/vcs2'
+904	creating device node '/udev/vcsa2'
+905	removing device node '/udev/vcs2'
+906	removing device node '/udev/vcsa2'
+907	creating device node '/udev/vcs2'
+908	creating device node '/udev/vcsa2'
+909	check pass; user unknown
+910	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br
+911	check pass; user unknown
+912	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br
+913	check pass; user unknown
+914	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br
+915	check pass; user unknown
+916	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br
+917	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+918	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+919	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+920	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+921	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+922	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+923	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+924	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+925	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+926	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+927	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+928	connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005
+929	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+930	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+931	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+932	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+933	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+934	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+935	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+936	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+937	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+938	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+939	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+940	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+941	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+942	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+943	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+944	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+945	connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005
+946	connection from 221.4.102.93 () at Thu Jul  7 23:09:47 2005
+947	connection from 221.4.102.93 () at Thu Jul  7 23:09:50 2005
+948	session opened for user cyrus by (uid=0)
+949	session closed for user cyrus
+950	ALERT exited abnormally with [1]
+951	session opened for user news by (uid=0)
+952	session closed for user news
+953	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+954	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+955	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+956	authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test
+957	session opened for user cyrus by (uid=0)
+958	session closed for user cyrus
+959	ALERT exited abnormally with [1]
+960	session opened for user news by (uid=0)
+961	session closed for user news
+962	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+963	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+964	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+965	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+966	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+967	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+968	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+969	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+970	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+971	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+972	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+973	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+974	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+975	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+976	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+977	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+978	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+979	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+980	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+981	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+982	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+983	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+984	connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005
+985	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+986	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+987	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+988	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+989	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+990	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+991	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+992	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+993	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+994	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+995	connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005
+996	connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005
+997	connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005
+998	connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005
+999	connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005
+1000	connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005

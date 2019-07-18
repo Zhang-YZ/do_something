@@ -1,0 +1,51 @@
+unix.hw net.niff.up 1 NIFF: node has detected an available network connection on network via interface alt0
+Interconnect-0N03 switch_module error 1 Linkerror event interval expired
+switch_module error 1 Linkerror event interval expired
+gige2 gige temperature 1 warning
+gige4 gige temperature 1 warning
+gige6 gige temperature 1 warning
+node-44 unix.hw net.niff.up 1 NIFF: node node-44 has detected an available network connection on network via interface alt0
+node temperature 1 ambient=24
+gige7 gige temperature 1 warning
+unix.hw net.niff.up 1 NIFF: node has detected an available network connection on network via interface ee0
+node-84 unix.hw net.niff.up 1 NIFF: node node-84 has detected an available network connection on network via interface
+gige4 gige temperature 1 normal
+node-241 unix.hw net.niff.up 1 NIFF: node node-241 has detected an available network connection on network via interface ee0
+gige3 gige temperature 1 normal
+node-23 unix.hw net.niff.up 1 NIFF: node node-23 has detected an available network connection on network via interface ee0
+node temperature 1 ambient=35
+node temperature 1 ambient=30
+node temperature 1 ambient=29
+node temperature 1 ambient=26
+gige7 gige temperature 1 normal
+node-212 unix.hw net.niff.up 1 NIFF: node node-212 has detected an available network connection on network via interface ee0
+gige5 gige temperature 1 warning
+node temperature 1 ambient=33
+unix.hw net.niff.up 1 NIFF: node has detected an available network connection on network via interface ee0
+node-129 unix.hw net.niff.up 1 NIFF: node node-129 has detected an available network connection on network via interface ee0
+node temperature 1 ambient=27
+gige6 gige temperature 1 normal
+node temperature 1 ambient=32
+switch_module error 1 Link error
+node temperature 1 ambient=25
+node-221 unix.hw net.niff.up 1 NIFF: node node-221 has detected an available network connection on network via interface alt0
+node temperature 1 ambient=28
+node temperature 1 ambient=28
+Interconnect-1N01 switch_module error 1 Linkerror event interval expired
+action error 1 (command Error:
+node-69 unix.hw net.niff.up 1 NIFF: node node-69 has detected an available network connection on network via interface
+node-9 unix.hw net.niff.up 1 NIFF: node node-9 has detected an available network connection on network via interface ee0
+node temperature 1
+Interconnect-1T01 switch_module error 1 link errors remain current
+gige2 gige temperature 1 normal
+gige5 gige temperature 1 normal
+node temperature 1 ambient=31
+switch_module error 1 link errors remain current
+node-183 unix.hw net.niff.up 1 NIFF: node node-183 has detected an available network connection on network via interface ee0
+Interconnect-1N01 switch_module error 1 Link ok
+node-19 unix.hw net.niff.up 1 NIFF: node node-19 has detected an available network connection on network via interface
+node-244 unix.hw net.niff.up 1 NIFF: node node-244 has detected an available network connection on network via interface ee0
+node-91 unix.hw net.niff.up 1 NIFF: node node-91 has detected an available network connection on network via interface alt0
+node temperature 1 ambient=34
+node temperature 1 ambient=36
+gige3 gige temperature 1 warning

@@ -1,0 +1,2 @@
+12	081110 220911 19 INFO dfs.FSDataset: Deleting block blk_6542592144596063478 file /mnt/hadoop/dfs/data/current/subdir35/blk_6542592144596063478
+15	081110 220923 19 INFO dfs.FSDataset: Deleting block blk_8615522912610884162 file /mnt/hadoop/dfs/data/current/subdir35/blk_8615522912610884162

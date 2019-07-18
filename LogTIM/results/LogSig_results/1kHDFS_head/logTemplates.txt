@@ -1,0 +1,14 @@
+081110 28 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: is added to invalidSet of
+081110 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: is added to invalidSet of
+081109 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock:
+081110 WARN dfs.DataNode$DataXceiver: Got exception while serving to
+081110 INFO dfs.DataNode$DataXceiver: Receiving block src: dest:
+081110 19 INFO dfs.FSDataset: Deleting block file
+081110 INFO dfs.DataNode$DataXceiver: Served block to
+081110 INFO dfs.DataNode$PacketResponder: Received block of size 67108864 from
+081109 INFO dfs.DataNode$DataXceiver: Receiving block src: dest:
+081109 INFO dfs.DataNode$PacketResponder: PacketResponder for block terminating
+081110 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock:
+081110 13 INFO dfs.DataBlockScanner: Verification succeeded for
+081110 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: is added to size 67108864
+081110 INFO dfs.DataNode$PacketResponder: PacketResponder for block terminating

@@ -1,0 +1,17 @@
+501	2015-07-29 21:34:45,452 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f20027 with negotiated timeout 10000 for client
+502	2015-07-29 21:34:48,285 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f2002b with negotiated timeout 10000 for client
+507	2015-07-29 23:52:08,962 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f2005b with negotiated timeout 10000 for client
+510	2015-07-29 23:52:09,785 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f2005f with negotiated timeout 10000 for client
+513	2015-07-30 14:47:15,835 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f20079 with negotiated timeout 20000 for client
+515	2015-07-30 14:52:36,477 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f2007c with negotiated timeout 10000 for client
+518	2015-07-30 15:00:24,825 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f20082 with negotiated timeout 10000 for client
+535	2015-07-30 17:06:40,816 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ed93111f200df with negotiated timeout 10000 for client
+560	2015-07-30 21:03:44,634 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ede63a5a7004b with negotiated timeout 10000 for client
+573	2015-07-31 00:17:52,585 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14edfaa86f60013 with negotiated timeout 10000 for client
+589	2015-07-31 21:11:05,474 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ee3e057ed000c with negotiated timeout 10000 for client
+595	2015-07-31 21:32:18,390 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14ee3e057ed002c with negotiated timeout 10000 for client
+600	2015-08-10 17:52:39,654 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14f05578bd80002 with negotiated timeout 10000 for client
+607	2015-08-10 18:13:25,200 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14f05578bd80020 with negotiated timeout 10000 for client
+627	2015-08-20 17:22:22,288 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14f4a6318b80005 with negotiated timeout 10000 for client
+630	2015-08-20 17:24:07,816 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14f4a6318b80013 with negotiated timeout 10000 for client
+631	2015-08-20 19:02:23,456 - INFO [CommitProcessor:1:ZooKeeperServer@595] - Established session 0x14f4a6318b80022 with negotiated timeout 10000 for client

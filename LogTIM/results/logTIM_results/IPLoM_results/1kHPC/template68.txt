@@ -1,0 +1,1 @@
+948	298912 node-29 unix.hw net.niff.up 1081814578 1 NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0

@@ -1,0 +1,6 @@
+[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, bytes KB) sent, bytes KB) received, lifetime
+[10.30 YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.
+[10.30 WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 451 bytes sent, 353 bytes received, lifetime 00:01
+[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+[10.30 chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime
+[10.30 - error : Could not connect through proxy proxy.cse.cuhk.edu.hk:8000 - Proxy the connection

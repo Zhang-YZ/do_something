@@ -1,0 +1,1 @@
+391	2015-07-31 21:32:06,121 - INFO  [CommitProcessor:2:ZooKeeperServer@595] - Established session 0x24ee30a54f5001f with negotiated timeout 10000 for client /10.10.34.11:45102

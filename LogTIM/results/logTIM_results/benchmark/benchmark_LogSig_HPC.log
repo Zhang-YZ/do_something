@@ -1,0 +1,29 @@
+dataset: rawlog.log
+Loading Log File...
+./data/1kHPC_tail/rawlog.log
+True
+51
+Generating term pairs...
+initializing...
+=======initial group division(Random Select)=====================
+Log Number of each group is:  [19, 23, 21, 13, 12, 15, 26, 19, 14, 24, 18, 14, 19, 17, 17, 16, 16, 22, 21, 22, 21, 17, 20, 19, 25, 23, 21, 23, 21, 19, 26, 17, 11, 12, 21, 25, 26, 22, 23, 21, 24, 20, 21, 17, 14, 26, 31, 17, 14, 16, 19]
+===================================================
+[24, 3, 225, 7, 22, 21, 3, 5, 48, 21, 3, 11, 3, 31, 3, 7, 23, 20, 14, 25, 3, 11, 17, 5, 4, 21, 34, 7, 7, 19, 3, 9, 16, 167, 3, 3, 3, 3, 33, 5, 6, 15, 23, 3, 15, 3, 4, 3, 5, 8, 23]
+===================================================
+[('unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'alt0'), ('Interconnect-0N03', 'switch_module', 'error', '1', 'Linkerror', 'event', 'interval', 'expired'), ('switch_module', 'error', '1', 'Linkerror', 'event', 'interval', 'expired'), ('gige2', 'gige', 'temperature', '1', 'warning'), ('gige4', 'gige', 'temperature', '1', 'warning'), ('gige6', 'gige', 'temperature', '1', 'warning'), ('node-44', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-44', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'alt0'), ('node', 'temperature', '1', 'ambient=24'), ('gige7', 'gige', 'temperature', '1', 'warning'), ('unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node-84', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-84', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface'), ('gige4', 'gige', 'temperature', '1', 'normal'), ('node-241', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-241', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('gige3', 'gige', 'temperature', '1', 'normal'), ('node-23', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-23', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node', 'temperature', '1', 'ambient=35'), ('node', 'temperature', '1', 'ambient=30'), ('node', 'temperature', '1', 'ambient=29'), ('node', 'temperature', '1', 'ambient=26'), ('gige7', 'gige', 'temperature', '1', 'normal'), ('node-212', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-212', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('gige5', 'gige', 'temperature', '1', 'warning'), ('node', 'temperature', '1', 'ambient=33'), ('unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node-129', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-129', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node', 'temperature', '1', 'ambient=27'), ('gige6', 'gige', 'temperature', '1', 'normal'), ('node', 'temperature', '1', 'ambient=32'), ('switch_module', 'error', '1', 'Link', 'error'), ('node', 'temperature', '1', 'ambient=25'), ('node-221', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-221', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'alt0'), ('node', 'temperature', '1', 'ambient=28'), ('node', 'temperature', '1', 'ambient=28'), ('Interconnect-1N01', 'switch_module', 'error', '1', 'Linkerror', 'event', 'interval', 'expired'), ('action', 'error', '1', '(command', 'Error:'), ('node-69', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-69', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface'), ('node-9', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-9', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node', 'temperature', '1'), ('Interconnect-1T01', 'switch_module', 'error', '1', 'link', 'errors', 'remain', 'current'), ('gige2', 'gige', 'temperature', '1', 'normal'), ('gige5', 'gige', 'temperature', '1', 'normal'), ('node', 'temperature', '1', 'ambient=31'), ('switch_module', 'error', '1', 'link', 'errors', 'remain', 'current'), ('node-183', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-183', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('Interconnect-1N01', 'switch_module', 'error', '1', 'Link', 'ok'), ('node-19', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-19', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface'), ('node-244', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-244', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'ee0'), ('node-91', 'unix.hw', 'net.niff.up', '1', 'NIFF:', 'node', 'node-91', 'has', 'detected', 'an', 'available', 'network', 'connection', 'on', 'network', 'via', 'interface', 'alt0'), ('node', 'temperature', '1', 'ambient=34'), ('node', 'temperature', '1', 'ambient=36'), ('gige3', 'gige', 'temperature', '1', 'warning')]
+this process takes 14.211640119552612
+*********************************************
+groundTruthDataPath: ./data/1kHPC_tail/
+./data/1kHPC_tail/rawlog.log
+gtLogLabel(all elements are -1): (1000, 1)
+GT clusters are altogether 12 files
+Result clusters are altogether 51 files
+TP,FP,TN,FN are: 44675.0 549.0 384875.0 69401.0
+precision is 0.9879
+recall is 0.3916
+F measure is 0.5609
+RI is 0.8600
+dataset: rawlog.log
+traing time: 14.233948469161987
+algorithm: LogSig
+Dataset HPC

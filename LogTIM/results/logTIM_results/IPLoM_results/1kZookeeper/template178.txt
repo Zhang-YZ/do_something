@@ -1,0 +1,6 @@
+968	2015-07-30 20:06:22,905 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.11:51097 which had sessionid 0x34ede65503f002f
+969	2015-07-30 20:06:22,989 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.12:56372 which had sessionid 0x34ede65503f0030
+981	2015-07-31 00:15:23,611 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.11:53310 which had sessionid 0x34edfaa9c220012
+984	2015-07-31 11:07:41,903 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.13:42060 which had sessionid 0x34edfaa9c22002d
+992	2015-07-31 21:24:18,366 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.11:59186 which had sessionid 0x34ee30a5c530018
+997	2015-08-10 17:53:14,914 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.12:33342 which had sessionid 0x34f0557885e0002

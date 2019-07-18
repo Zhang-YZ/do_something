@@ -1,0 +1,1 @@
+912	2576312 node-24 unix.hw net.niff.up 1074178812 1 NIFF: node node-24 has detected an available network connection on network 10.128.0.0 via interface ee0

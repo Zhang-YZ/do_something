@@ -1,0 +1,1 @@
+460	2015-08-25 11:26:27,861 - INFO  [QuorumPeer[myid=2]/0:0:0:0:0:0:0:0:2181:QuorumPeer@670] - LOOKING

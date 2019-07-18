@@ -1,0 +1,1 @@
+563	418211 node-D0 domain status 1093628640 1 inconsistent nodesets node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok>

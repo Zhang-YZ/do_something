@@ -1,0 +1,1 @@
+1279	- 1124798068 2005.08.23 R50-M1-N0-I:J18-U11 2005-08-23-04.54.28.532357 R50-M1-N0-I:J18-U11 RAS APP FATAL ciod: LOGIN chdir(/home/germann2/BGL-demo) failed: No such file or directory

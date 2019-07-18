@@ -1,0 +1,1 @@
+22	53863 node-239 node temperature 1107191073 1 ambient=26

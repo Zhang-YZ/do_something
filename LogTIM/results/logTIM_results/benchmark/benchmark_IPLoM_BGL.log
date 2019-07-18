@@ -1,0 +1,23 @@
+dataset: rawlog.log IPLoM
+parserPara.path ./data/1kBGL_tail/
+!!  p1 may be equal to p2
+!!  p1 may be equal to p2
+!!  p1 may be equal to p2
+!!  p1 may be equal to p2
+!!  p1 may be equal to p2
+this process takes 0.025817394256591797
+*********************************************
+groundTruthDataPath: ./data/1kBGL_tail/
+./data/1kBGL_tail/rawlog.log
+gtLogLabel(all elements are -1): (1000, 1)
+GT clusters are altogether 67 files
+Result clusters are altogether 137 files
+TP,FP,TN,FN are: 23821.0 3005.0 452894.0 19780.0
+precision is 0.8880
+recall is 0.5463
+F measure is 0.6765
+RI is 0.9544
+dataset: rawlog.log
+traing time: 0.05099630355834961
+algorithm: IPLoM
+Dataset BGL

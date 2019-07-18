@@ -1,0 +1,24 @@
+4	081109 * * INFO * * * *
+10	081109 * * WARN dfs.DataNode$DataXceiver: Got exception while serving to
+7	* * * INFO * * * * * * *
+12	081110 * * * * * * * * * * * *
+2	* * * INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: is added to size *
+6	081109 * * INFO * * block * *
+15	081110 * * * * * * * * * * *
+14	081110 * * * * * * * * * * * * * * *
+23	081111 * * * * * * *
+22	081111 * * * * * * * * * * * * * * *
+18	081111 * * * * * * * * *
+8	081110 * * WARN dfs.DataNode$DataXceiver: Got exception while serving to
+16	081110 * * * * * * * * * *
+21	081111 * * * * * * * * * * *
+19	081111 * * * * * * * * * *
+20	081111 * * * * * * * * * * * *
+9	081110 * * INFO dfs.DataNode$PacketResponder: PacketResponder * for block terminating
+17	081111 000037 * * * * * * * *
+3	081110 * * INFO * * * *
+5	081110 * * INFO * * * * *
+1	081110 * * INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: is added to invalidSet of
+24	081111 * * * * * * * * * * * * * *
+13	081110 * * * * * * * * *
+11	081109 * * INFO dfs.DataNode$PacketResponder: PacketResponder * for block terminating

@@ -1,0 +1,1 @@
+954	- 1121484659 2005.07.15 R33-M0-N6-C:J13-U11 2005-07-15-20.30.59.176883 R33-M0-N6-C:J13-U11 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7

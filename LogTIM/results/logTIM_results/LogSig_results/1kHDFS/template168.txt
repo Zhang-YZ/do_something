@@ -1,0 +1,1 @@
+590	081111 065437 19 INFO dfs.FSDataset: Deleting block blk_3706543205492061794 file /mnt/hadoop/dfs/data/current/subdir1/blk_3706543205492061794

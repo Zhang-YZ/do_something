@@ -1,0 +1,43 @@
+1	* Interconnect-0N00 switch_module temphigh * 1 Temperature (41C) exceeds warning threshold
+2	* Interconnect-0N00 switch_module fan * 1 Fan speeds ( * * * * * * )
+3	* node- unix.hw net.niff.down * 1 NIFF: node node- detected a failed network connection on network via interface alt0
+4	415345 node-D0 domain status 1142942280 1 inconsistent nodesets node- 0x1fffffffe <ok> node- 0xfffffffe <ok> node- 0xfffffffe <ok> node- 0xfffffffe <ok> node- 0xfffffffe <ok>
+5	418211 node-D0 domain status 1093628640 1 inconsistent nodesets node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x000001fc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok> node- 0x0003fdfc <ok>
+6	* * domain status * 1 not responding
+7	* node- node status * * * *
+8	* node- node psu * 1 psu failure\ *
+9	* node- action start * 1 * (command *
+10	72725 3398 boot_cmd error 1108648264 1 Failed subcommands 3406
+11	* * switch_module * * 1 Link in reset
+12	26281 Interconnect-0T00 switch_module bcast-error 1124878893 1 Link error on broadcast tree Interconnect-0T00:00:2:1
+13	218536 node-D1 clusterfilesystem fdmn.full 1117131308 1 ServerFileSystem: ServerFileSystem domain root26_local is full
+14	178949 node-D2 clusterfilesystem fdmn.full 1114672353 1 ServerFileSystem: ServerFileSystem domain root1_local is full
+15	38390 3344 boot_cmd new 1104070308 1 Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191]
+16	383570 node-D7 clusterfilesystem fdmn.full 1086596948 1 ServerFileSystem: ServerFileSystem domain root26_tmp is full
+17	* Interconnect-1T00 switch_module bcast-error * 1 Link error on broadcast tree *
+18	280513 node-D0 clusterfilesystem fdmn.full 1079715693 1 ServerFileSystem: ServerFileSystem domain root10_local is full
+19	70088 2206 shutdown_cmd new 1077059790 1 Targeting domains:node-D7 and nodes:node-[224\ 228\ 232]
+20	289398 node-D5 clusterfilesystem fdmn.full 1080811198 1 ServerFileSystem: ServerFileSystem domain root13_local is full
+21	* node-D4 clusterfilesystem fdmn.full * 1 ServerFileSystem: ServerFileSystem domain * is full
+22	* node-D3 clusterfilesystem fdmn.full * 1 ServerFileSystem: ServerFileSystem domain * is full
+23	* * * * * 1 * * * * * * * *
+24	* * clusterfilesystem * * 1 * * * * * * * * *
+25	* * clusterfilesystem clusterfilesystem.not_served * 1 ClusterFileSystem: ServerFileSystem domain * is no longer served by node node-
+26	* node- unix.hw state_change.unavailable * 1 Component State Change: Component * is in the unavailable state *
+27	* * * * * 1 * * * * * * * * * * * * * *
+28	* * * temperature * 1 *
+29	* node- node status * * *
+30	371602 node--tc6 tserver status 1085921002 1 not-responding
+31	* full partition status * * *
+32	27385 Interconnect-0N02 switch_module control 1101771720 1 power/control problem
+33	2557405 Interconnect-1T01 switch_module error 1072965457 1 Link error
+34	* Interconnect-1T00 switch_module bcast-error * 1 Link *
+35	* Interconnect-0T00 switch_module bcast-error * 1 Link error
+36	2553872 Interconnect-0N03 switch_module error 1072642871 1 Link ok
+37	* Interconnect-1N01 switch_module error * 1 Link *
+38	2558415 Interconnect-1T02 switch_module error 1073119551 1 Link error
+39	* Interconnect-1N03 switch_module error * 1 Link *
+40	130987 3504 boot_cmd abort 1111858191 1 Command has been aborted
+41	* * boot_cmd new * 1 Targeting * and nodes:node-
+42	* * boot_cmd success * 1 Command has completed successfully
+43	* * switch_module error * * * * * *

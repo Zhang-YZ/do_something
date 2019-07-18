@@ -1,0 +1,2 @@
+398	2015-08-07 07:27:35,422 - WARN [QuorumPeer[myid=2]/0:0:0:0:0:0:0:0:2181:QuorumCnxManager@368] - Cannot open channel to 3 at election address
+462	2015-07-29 17:42:53,528 - WARN [WorkerSender[myid=3]:QuorumCnxManager@368] - Cannot open channel to 2 at election address

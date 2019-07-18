@@ -1,0 +1,3 @@
+412	081111 044759 19 INFO dfs.FSDataset: Deleting block blk_3274968259628929519 file /mnt/hadoop/dfs/data/current/subdir19/blk_3274968259628929519
+413	081111 044806 19 INFO dfs.FSDataset: Deleting block blk_5736622945587812309 file /mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309
+872	081111 090129 19 INFO dfs.FSDataset: Deleting block blk_-5598693099021996971 file /mnt/hadoop/dfs/data/current/subdir19/blk_-5598693099021996971

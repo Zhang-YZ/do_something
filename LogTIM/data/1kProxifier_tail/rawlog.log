@@ -1,0 +1,1000 @@
+1	[10.30 18:00:55] YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion. 
+2	[10.30 18:00:55] YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion. 
+3	[10.30 18:00:55] YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion. 
+4	[10.30 18:00:56] SogouCloud.exe - get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+5	[10.30 18:00:56] SogouCloud.exe - get.sogou.com:80 close, 1071 bytes (1.04 KB) sent, 336 bytes received, lifetime <1 sec
+6	[10.30 18:01:08] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 2928 bytes (2.85 KB) sent, 567520 bytes (554 KB) received, lifetime 01:55
+7	[10.30 18:01:08] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1311 bytes (1.28 KB) sent, 25356 bytes (24.7 KB) received, lifetime 01:55
+8	[10.30 18:01:22] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+9	[10.30 18:01:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+10	[10.30 18:01:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+11	[10.30 18:01:42] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 1744 bytes (1.70 KB) sent, 14808 bytes (14.4 KB) received, lifetime 00:20
+12	[10.30 18:01:42] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+13	[10.30 18:01:56] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 2973 bytes (2.90 KB) sent, 29232 bytes (28.5 KB) received, lifetime 00:14
+14	[10.30 18:02:12] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 2217 bytes (2.16 KB) sent, 19738 bytes (19.2 KB) received, lifetime 01:57
+15	[10.30 18:02:12] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1933 bytes (1.88 KB) sent, 20069 bytes (19.5 KB) received, lifetime 02:00
+16	[10.30 18:02:12] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 856 bytes sent, 23556 bytes (23.0 KB) received, lifetime 01:57
+17	[10.30 18:02:12] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1902 bytes (1.85 KB) sent, 28659 bytes (27.9 KB) received, lifetime 02:00
+18	[10.30 18:02:23] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 3844 bytes (3.75 KB) sent, 120853 bytes (118 KB) received, lifetime 02:08
+19	[10.30 18:02:29] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+20	[10.30 18:02:49] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+21	[10.30 18:02:50] DefaultPack.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+22	[10.30 18:02:52] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+23	[10.30 18:02:53] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+24	[10.30 18:02:54] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+25	[10.30 18:03:02] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+26	[10.30 18:03:06] Skype.exe - 91.190.216.212:13392 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:8000 - Proxy server cannot establish a connection with the target, status code 403
+27	[10.30 18:03:06] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 14685 bytes (14.3 KB) sent, 6899 bytes (6.73 KB) received, lifetime 00:37
+28	[10.30 18:03:06] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+29	[10.30 18:03:08] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+30	[10.30 18:03:08] Skype.exe - 91.190.218.125:443 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+31	[10.30 18:03:09] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 319 bytes sent, 817 bytes received, lifetime 00:40
+32	[10.30 18:03:09] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+33	[10.30 18:03:09] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 1029 bytes (1.00 KB) sent, 59214 bytes (57.8 KB) received, lifetime 00:01
+34	[10.30 18:03:10] Skype.exe - 91.190.218.125:80 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+35	[10.30 18:03:11] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+36	[10.30 18:03:12] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 1348 bytes (1.31 KB) sent, 4313 bytes (4.21 KB) received, lifetime 00:02
+37	[10.30 18:03:13] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 1051 bytes (1.02 KB) sent, 12029 bytes (11.7 KB) received, lifetime 00:01
+38	[10.30 18:03:13] Skype.exe - 91.190.216.125:12350 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:8000 - Proxy server cannot establish a connection with the target, status code 403
+39	[10.30 18:03:13] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 1241 bytes (1.21 KB) sent, 3341 bytes (3.26 KB) received, lifetime 00:02
+40	[10.30 18:03:15] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+41	[10.30 18:03:16] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+42	[10.30 18:03:16] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+43	[10.30 18:03:16] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 902 bytes sent, 683 bytes received, lifetime 00:07
+44	[10.30 18:03:18] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 5730 bytes (5.59 KB) sent, 6207 bytes (6.06 KB) received, lifetime 00:02
+45	[10.30 18:03:21] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+46	[10.30 18:03:21] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 263 bytes sent, 2430 bytes (2.37 KB) received, lifetime <1 sec
+47	[10.30 18:03:21] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+48	[10.30 18:03:22] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 425 bytes sent, 322 bytes received, lifetime <1 sec
+49	[10.30 18:03:23] Skype.exe - 24.135.95.248:443 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+50	[10.30 18:03:28] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 812 bytes sent, 629 bytes received, lifetime 00:06
+51	[10.30 18:03:35] Skype.exe - 24.135.95.248:443 close, 131 bytes sent, 153 bytes received, lifetime 00:12
+52	[10.30 18:03:37] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+53	[10.30 18:03:38] Skype.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+54	[10.30 18:03:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4381 bytes (4.27 KB) sent, 6044 bytes (5.90 KB) received, lifetime 09:14
+55	[10.30 18:03:41] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 11783 bytes (11.5 KB) sent, 7528 bytes (7.35 KB) received, lifetime 00:20
+56	[10.30 18:03:43] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 377 bytes sent, 39 bytes received, lifetime 00:01
+57	[10.30 18:03:43] Skype.exe - 213.199.179.159:443 close, 9630 bytes (9.40 KB) sent, 32189 bytes (31.4 KB) received, lifetime 01:01
+58	[10.30 18:03:43] Skype.exe - 91.190.216.212:443 close, 5 bytes sent, 5 bytes received, lifetime 00:04
+59	[10.30 18:03:46] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+60	[10.30 18:03:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+61	[10.30 18:03:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+62	[10.30 18:03:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+63	[10.30 18:03:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+64	[10.30 18:03:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+65	[10.30 18:03:48] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+66	[10.30 18:03:48] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+67	[10.30 18:03:48] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+68	[10.30 18:03:48] firefox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+69	[10.30 18:04:43] YodaoDict.exe - oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion. 
+70	[10.30 18:04:47] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1850 bytes (1.80 KB) sent, 5441 bytes (5.31 KB) received, lifetime 00:59
+71	[10.30 18:05:10] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 441 bytes sent, 687 bytes received, lifetime <1 sec
+72	[10.30 18:05:44] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 983 bytes sent, 259565 bytes (253 KB) received, lifetime 01:57
+73	[10.30 18:05:44] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 983 bytes sent, 406691 bytes (397 KB) received, lifetime 01:57
+74	[10.30 18:05:44] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 986 bytes sent, 252464 bytes (246 KB) received, lifetime 01:57
+75	[10.30 18:05:45] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 983 bytes sent, 254975 bytes (248 KB) received, lifetime 01:58
+76	[10.30 18:05:53] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1748 bytes (1.70 KB) sent, 6426 bytes (6.27 KB) received, lifetime 02:06
+77	[10.30 18:05:53] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 2422 bytes (2.36 KB) sent, 99175 bytes (96.8 KB) received, lifetime 02:06
+78	[10.30 18:06:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+79	[10.30 18:06:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+80	[10.30 18:06:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+81	[10.30 18:06:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+82	[10.30 18:06:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+83	[10.30 18:06:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 972 bytes sent, 784 bytes received, lifetime 00:20
+84	[10.30 18:06:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:19
+85	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+86	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+87	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+88	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+89	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+90	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+91	[10.30 18:07:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+92	[10.30 18:07:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:04
+93	[10.30 18:07:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+94	[10.30 18:07:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+95	[10.30 18:07:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+96	[10.30 18:07:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+97	[10.30 18:07:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+98	[10.30 18:08:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+99	[10.30 18:08:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+100	[10.30 18:08:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1063 bytes (1.03 KB) sent, 6217 bytes (6.07 KB) received, lifetime 00:02
+101	[10.30 18:08:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1297 bytes (1.26 KB) sent, 14015 bytes (13.6 KB) received, lifetime <1 sec
+102	[10.30 18:08:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1277 bytes (1.24 KB) sent, 3624 bytes (3.53 KB) received, lifetime 00:01
+103	[10.30 18:08:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1277 bytes (1.24 KB) sent, 1203 bytes (1.17 KB) received, lifetime 00:01
+104	[10.30 18:08:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1549 bytes (1.51 KB) sent, 419 bytes received, lifetime 00:01
+105	[10.30 18:08:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+106	[10.30 18:08:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+107	[10.30 18:08:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1289 bytes (1.25 KB) sent, 2199 bytes (2.14 KB) received, lifetime 00:01
+108	[10.30 18:08:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1290 bytes (1.25 KB) sent, 4075 bytes (3.97 KB) received, lifetime 00:01
+109	[10.30 18:08:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+110	[10.30 18:08:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+111	[10.30 18:08:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1403 bytes (1.37 KB) sent, 53117 bytes (51.8 KB) received, lifetime 00:02
+112	[10.30 18:09:06] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+113	[10.30 18:09:06] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 400 bytes sent, 1108 bytes (1.08 KB) received, lifetime <1 sec
+114	[10.30 18:10:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+115	[10.30 18:10:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2174 bytes (2.12 KB) sent, 42700 bytes (41.6 KB) received, lifetime 00:02
+116	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1350 bytes (1.31 KB) sent, 272528 bytes (266 KB) received, lifetime 00:03
+117	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 705 bytes sent, 492 bytes received, lifetime 00:01
+118	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1398 bytes (1.36 KB) sent, 11654 bytes (11.3 KB) received, lifetime 00:01
+119	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 8796 bytes (8.58 KB) sent, 4701 bytes (4.59 KB) received, lifetime 13:52
+120	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1608 bytes (1.57 KB) sent, 22459 bytes (21.9 KB) received, lifetime 00:01
+121	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+122	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+123	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+124	[10.30 18:10:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+125	[10.30 18:10:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2618 bytes (2.55 KB) sent, 2162149 bytes (2.06 MB) received, lifetime 00:08
+126	[10.30 18:10:38] WeChat.exe - long.weixin.qq.com:80 error : A connection request was canceled before the completion. 
+127	[10.30 18:10:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+128	[10.30 18:11:23] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+129	[10.30 18:11:23] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+130	[10.30 18:11:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+131	[10.30 18:11:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+132	[10.30 18:11:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+133	[10.30 18:11:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+134	[10.30 18:11:28] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+135	[10.30 18:11:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1908 bytes (1.86 KB) sent, 9200 bytes (8.98 KB) received, lifetime 00:07
+136	[10.30 18:11:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 783 bytes sent, 176 bytes received, lifetime 00:15
+137	[10.30 18:12:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 527 bytes sent, 18109 bytes (17.6 KB) received, lifetime 01:59
+138	[10.30 18:12:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+139	[10.30 18:12:50] BingSvc.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+140	[10.30 18:13:07] WeChat.exe - long.weixin.qq.com:80 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+141	[10.30 18:13:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 849 bytes sent, 9333 bytes (9.11 KB) received, lifetime 02:01
+142	[10.30 18:13:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 952 bytes sent, 13595 bytes (13.2 KB) received, lifetime 03:00
+143	[10.30 18:13:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 976 bytes sent, 7259 bytes (7.08 KB) received, lifetime 03:01
+144	[10.30 20:39:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+145	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+146	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+147	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+148	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+149	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1929 bytes (1.88 KB) sent, 353 bytes received, lifetime 00:11
+150	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1862 bytes (1.81 KB) sent, 36478 bytes (35.6 KB) received, lifetime 00:10
+151	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+152	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+153	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+154	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+155	[10.30 20:39:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+156	[10.30 20:39:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+157	[10.30 20:39:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 977 bytes sent, 829 bytes received, lifetime <1 sec
+158	[10.30 20:39:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+159	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4280 bytes (4.17 KB) sent, 28458 bytes (27.7 KB) received, lifetime 00:02
+160	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 904 bytes sent, 14916 bytes (14.5 KB) received, lifetime 01:01
+161	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+162	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+163	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+164	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+165	[10.30 20:39:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+166	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2279 bytes (2.22 KB) sent, 279 bytes received, lifetime 00:02
+167	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+168	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+169	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2279 bytes (2.22 KB) sent, 279 bytes received, lifetime <1 sec
+170	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 937 bytes sent, 3049 bytes (2.97 KB) received, lifetime <1 sec
+171	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 583 bytes sent, 191464 bytes (186 KB) received, lifetime <1 sec
+172	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 533 bytes sent, 33923 bytes (33.1 KB) received, lifetime 00:01
+173	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+174	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+175	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 533 bytes sent, 32991 bytes (32.2 KB) received, lifetime 00:02
+176	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+177	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+178	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1839 bytes (1.79 KB) sent, 35486 bytes (34.6 KB) received, lifetime 00:01
+179	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 611 bytes sent, 3207 bytes (3.13 KB) received, lifetime <1 sec
+180	[10.30 20:39:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+181	[10.30 20:39:47] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 31257 bytes (30.5 KB) sent, 1846301 bytes (1.76 MB) received, lifetime 01:33
+182	[10.30 20:39:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+183	[10.30 20:40:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:14
+184	[10.30 20:40:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 485 bytes sent, 2246 bytes (2.19 KB) received, lifetime 00:18
+185	[10.30 20:40:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+186	[10.30 20:40:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 548 bytes sent, 522 bytes received, lifetime 00:01
+187	[10.30 20:40:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+188	[10.30 20:40:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+189	[10.30 20:40:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+190	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+191	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+192	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+193	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+194	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+195	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+196	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+197	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1108 bytes (1.08 KB) sent, 881 bytes received, lifetime <1 sec
+198	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+199	[10.30 20:40:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+200	[10.30 20:40:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1233 bytes (1.20 KB) sent, 4188 bytes (4.08 KB) received, lifetime 00:01
+201	[10.30 20:40:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+202	[10.30 20:40:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2376 bytes (2.32 KB) sent, 19187 bytes (18.7 KB) received, lifetime 00:01
+203	[10.30 20:40:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+204	[10.30 20:40:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+205	[10.30 20:40:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 409 bytes sent, 52645 bytes (51.4 KB) received, lifetime 00:01
+206	[10.30 20:40:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+207	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 474 bytes sent, 1047 bytes (1.02 KB) received, lifetime <1 sec
+208	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+209	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3882 bytes (3.79 KB) sent, 33377 bytes (32.5 KB) received, lifetime 00:04
+210	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 675 bytes sent, 7178 bytes (7.00 KB) received, lifetime <1 sec
+211	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+212	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 671 bytes sent, 969 bytes received, lifetime <1 sec
+213	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 628 bytes sent, 466 bytes received, lifetime 00:01
+214	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5746 bytes (5.61 KB) sent, 139688 bytes (136 KB) received, lifetime 00:25
+215	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+216	[10.30 20:40:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 564 bytes sent, 475 bytes received, lifetime <1 sec
+217	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+218	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+219	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 7762 bytes (7.58 KB) sent, 195435 bytes (190 KB) received, lifetime 00:26
+220	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3880 bytes (3.78 KB) sent, 82500 bytes (80.5 KB) received, lifetime 00:06
+221	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+222	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+223	[10.30 20:40:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2154 bytes (2.10 KB) sent, 13765 bytes (13.4 KB) received, lifetime <1 sec
+224	[10.30 20:40:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1510 bytes (1.47 KB) sent, 750 bytes received, lifetime 00:03
+225	[10.30 20:40:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+226	[10.30 20:40:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+227	[10.30 20:40:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+228	[10.30 20:40:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 478 bytes sent, 31439 bytes (30.7 KB) received, lifetime 00:01
+229	[10.30 20:40:16] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1010 bytes sent, 5219 bytes (5.09 KB) received, lifetime 04:00
+230	[10.30 20:40:16] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+231	[10.30 20:40:16] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+232	[10.30 20:40:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+233	[10.30 20:41:11] YodaoDict.exe - oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion. 
+234	[10.30 20:41:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1568 bytes (1.53 KB) sent, 3526 bytes (3.44 KB) received, lifetime 01:05
+235	[10.30 20:41:15] SohuNews.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+236	[10.30 20:42:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 7688 bytes (7.50 KB) sent, 167135 bytes (163 KB) received, lifetime 02:03
+237	[10.30 20:42:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 11419 bytes (11.1 KB) sent, 198906 bytes (194 KB) received, lifetime 02:26
+238	[10.30 20:42:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 21241 bytes (20.7 KB) sent, 2943 bytes (2.87 KB) received, lifetime 02:37
+239	[10.30 20:42:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1941 bytes (1.89 KB) sent, 37023 bytes (36.1 KB) received, lifetime 02:03
+240	[10.30 20:42:11] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 537 bytes sent, 0 bytes received, lifetime 00:02
+241	[10.30 20:42:11] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+242	[10.30 20:42:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1400 bytes (1.36 KB) sent, 3900 bytes (3.80 KB) received, lifetime 02:00
+243	[10.30 20:42:21] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+244	[10.30 20:42:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+245	[10.30 20:42:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+246	[10.30 20:42:33] YodaoDict.exe - oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion. 
+247	[10.30 20:42:33] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+248	[10.30 20:42:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+249	[10.30 20:42:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+250	[10.30 20:42:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+251	[10.30 20:42:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1386 bytes (1.35 KB) sent, 230676 bytes (225 KB) received, lifetime <1 sec
+252	[10.30 20:42:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+253	[10.30 20:42:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1007 bytes sent, 355 bytes received, lifetime 00:08
+254	[10.30 20:42:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 902 bytes sent, 404 bytes received, lifetime 00:02
+255	[10.30 20:42:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+256	[10.30 20:42:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+257	[10.30 20:42:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+258	[10.30 20:42:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1741 bytes (1.70 KB) sent, 158012 bytes (154 KB) received, lifetime <1 sec
+259	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 930 bytes sent, 8911 bytes (8.70 KB) received, lifetime 00:05
+260	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 930 bytes sent, 9471 bytes (9.24 KB) received, lifetime 00:05
+261	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+262	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+263	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2221 bytes (2.16 KB) sent, 414 bytes received, lifetime 00:04
+264	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3144 bytes (3.07 KB) sent, 5030 bytes (4.91 KB) received, lifetime 00:04
+265	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1341 bytes (1.30 KB) sent, 411 bytes received, lifetime 00:05
+266	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+267	[10.30 20:42:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+268	[10.30 20:42:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+269	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2286 bytes (2.23 KB) sent, 417 bytes received, lifetime 00:02
+270	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+271	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1193 bytes (1.16 KB) sent, 236 bytes received, lifetime 00:30
+272	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+273	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+274	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+275	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+276	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1318 bytes (1.28 KB) sent, 268 bytes received, lifetime <1 sec
+277	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1081 bytes (1.05 KB) sent, 685 bytes received, lifetime 00:07
+278	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 904 bytes sent, 404 bytes received, lifetime 00:08
+279	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1481 bytes (1.44 KB) sent, 1804 bytes (1.76 KB) received, lifetime 00:32
+280	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1487 bytes (1.45 KB) sent, 5414 bytes (5.28 KB) received, lifetime 00:30
+281	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+282	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+283	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+284	[10.30 20:42:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+285	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1269 bytes (1.23 KB) sent, 5484 bytes (5.35 KB) received, lifetime 00:01
+286	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+287	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 541 bytes sent, 392 bytes received, lifetime 00:01
+288	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+289	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1220 bytes (1.19 KB) sent, 245104 bytes (239 KB) received, lifetime 00:02
+290	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2248 bytes (2.19 KB) sent, 420 bytes received, lifetime <1 sec
+291	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2713 bytes (2.64 KB) sent, 857 bytes received, lifetime 00:01
+292	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1388 bytes (1.35 KB) sent, 421 bytes received, lifetime <1 sec
+293	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1391 bytes (1.35 KB) sent, 421 bytes received, lifetime <1 sec
+294	[10.30 20:42:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+295	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 415 bytes sent, 2173 bytes (2.12 KB) received, lifetime 00:01
+296	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 629 bytes sent, 334 bytes received, lifetime 00:01
+297	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+298	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+299	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+300	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 576 bytes sent, 3107 bytes (3.03 KB) received, lifetime 00:01
+301	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 576 bytes sent, 2283 bytes (2.22 KB) received, lifetime 00:01
+302	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+303	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+304	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+305	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+306	[10.30 20:42:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+307	[10.30 20:42:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+308	[10.30 20:42:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+309	[10.30 20:42:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 555 bytes sent, 400 bytes received, lifetime 00:04
+310	[10.30 20:42:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+311	[10.30 20:42:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1345 bytes (1.31 KB) sent, 472 bytes received, lifetime 00:01
+312	[10.30 20:42:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 710 bytes sent, 6596 bytes (6.44 KB) received, lifetime 00:04
+313	[10.30 20:42:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 710 bytes sent, 6596 bytes (6.44 KB) received, lifetime 00:04
+314	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 453 bytes sent, 11987 bytes (11.7 KB) received, lifetime 00:02
+315	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1416 bytes (1.38 KB) sent, 40892 bytes (39.9 KB) received, lifetime 00:06
+316	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+317	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+318	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+319	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+320	[10.30 20:42:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+321	[10.30 20:42:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:04
+322	[10.30 20:43:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+323	[10.30 20:43:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+324	[10.30 20:43:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+325	[10.30 20:43:36] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+326	[10.30 20:43:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2367 bytes (2.31 KB) sent, 656 bytes received, lifetime 00:06
+327	[10.30 20:43:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 626 bytes sent, 334 bytes received, lifetime 00:52
+328	[10.30 20:43:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+329	[10.30 20:43:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+330	[10.30 20:43:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2056 bytes (2.00 KB) sent, 217347 bytes (212 KB) received, lifetime <1 sec
+331	[10.30 20:43:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1130 bytes (1.10 KB) sent, 404 bytes received, lifetime 00:01
+332	[10.30 20:43:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+333	[10.30 20:43:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+334	[10.30 20:43:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1916 bytes (1.87 KB) sent, 245 bytes received, lifetime 00:06
+335	[10.30 20:43:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1213 bytes (1.18 KB) sent, 245 bytes received, lifetime 00:06
+336	[10.30 20:43:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2193 bytes (2.14 KB) sent, 7156 bytes (6.98 KB) received, lifetime 00:01
+337	[10.30 20:43:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+338	[10.30 20:43:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1093 bytes (1.06 KB) sent, 11131 bytes (10.8 KB) received, lifetime 00:01
+339	[10.30 20:43:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5448 bytes (5.32 KB) sent, 29557 bytes (28.8 KB) received, lifetime 00:03
+340	[10.30 20:43:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+341	[10.30 20:43:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+342	[10.30 20:43:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+343	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+344	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 553 bytes sent, 1424 bytes (1.39 KB) received, lifetime <1 sec
+345	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 668 bytes sent, 0 bytes received, lifetime <1 sec
+346	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+347	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+348	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+349	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+350	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+351	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+352	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+353	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+354	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 929 bytes sent, 6675 bytes (6.51 KB) received, lifetime <1 sec
+355	[10.30 20:43:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+356	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1122 bytes (1.09 KB) sent, 735 bytes received, lifetime 00:01
+357	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1341 bytes (1.30 KB) sent, 290 bytes received, lifetime 00:01
+358	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+359	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+360	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1047 bytes (1.02 KB) sent, 271 bytes received, lifetime 00:01
+361	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1112 bytes (1.08 KB) sent, 4846 bytes (4.73 KB) received, lifetime 00:01
+362	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+363	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1626 bytes (1.58 KB) sent, 1214 bytes (1.18 KB) received, lifetime 00:01
+364	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+365	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 519 bytes sent, 43718 bytes (42.6 KB) received, lifetime <1 sec
+366	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 979 bytes sent, 270 bytes received, lifetime <1 sec
+367	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 872 bytes sent, 18031 bytes (17.6 KB) received, lifetime 00:53
+368	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 872 bytes sent, 56801 bytes (55.4 KB) received, lifetime 00:53
+369	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1270 bytes (1.24 KB) sent, 598 bytes received, lifetime 00:04
+370	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5864 bytes (5.72 KB) sent, 2938 bytes (2.86 KB) received, lifetime 00:56
+371	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2883 bytes (2.81 KB) sent, 1490 bytes (1.45 KB) received, lifetime 01:05
+372	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+373	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 522 bytes sent, 81588 bytes (79.6 KB) received, lifetime <1 sec
+374	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+375	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+376	[10.30 20:43:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+377	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+378	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+379	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+380	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+381	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1870 bytes (1.82 KB) sent, 35043 bytes (34.2 KB) received, lifetime 00:01
+382	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+383	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+384	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+385	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+386	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+387	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+388	[10.30 20:43:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+389	[10.30 20:43:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+390	[10.30 20:43:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2810 bytes (2.74 KB) sent, 282 bytes received, lifetime <1 sec
+391	[10.30 20:43:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+392	[10.30 20:43:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1024 bytes sent, 401 bytes received, lifetime 00:01
+393	[10.30 20:43:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+394	[10.30 20:43:51] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+395	[10.30 20:44:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2603 bytes (2.54 KB) sent, 1016 bytes received, lifetime 00:13
+396	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1366 bytes (1.33 KB) sent, 33359 bytes (32.5 KB) received, lifetime 00:52
+397	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1357 bytes (1.32 KB) sent, 331 bytes received, lifetime 00:55
+398	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+399	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+400	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+401	[10.30 20:44:42] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+402	[10.30 20:44:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+403	[10.30 20:44:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1167 bytes (1.13 KB) sent, 340 bytes received, lifetime <1 sec
+404	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1106 bytes (1.08 KB) sent, 406 bytes received, lifetime 00:06
+405	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2217 bytes (2.16 KB) sent, 812 bytes received, lifetime 00:06
+406	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+407	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+408	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+409	[10.30 20:44:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1357 bytes (1.32 KB) sent, 0 bytes received, lifetime <1 sec
+410	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 830 bytes sent, 401 bytes received, lifetime 00:01
+411	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+412	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+413	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+414	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+415	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+416	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+417	[10.30 20:44:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:07
+418	[10.30 20:44:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+419	[10.30 20:44:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1005 bytes sent, 269 bytes received, lifetime 00:02
+420	[10.30 20:44:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:10
+421	[10.30 20:44:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2926 bytes (2.85 KB) sent, 1700 bytes (1.66 KB) received, lifetime 00:10
+422	[10.30 20:44:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+423	[10.30 20:44:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+424	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 477 bytes sent, 21823 bytes (21.3 KB) received, lifetime 00:01
+425	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 783 bytes sent, 2066 bytes (2.01 KB) received, lifetime 00:01
+426	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3363 bytes (3.28 KB) sent, 33302 bytes (32.5 KB) received, lifetime 00:02
+427	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+428	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+429	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 507 bytes sent, 1021 bytes received, lifetime 00:01
+430	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+431	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+432	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+433	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+434	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1682 bytes (1.64 KB) sent, 1794 bytes (1.75 KB) received, lifetime <1 sec
+435	[10.30 20:44:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1619 bytes (1.58 KB) sent, 4657 bytes (4.54 KB) received, lifetime <1 sec
+436	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+437	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+438	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 531 bytes sent, 169018 bytes (165 KB) received, lifetime 00:01
+439	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1616 bytes (1.57 KB) sent, 42950 bytes (41.9 KB) received, lifetime 00:01
+440	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1936 bytes (1.89 KB) sent, 1328 bytes (1.29 KB) received, lifetime <1 sec
+441	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1016 bytes sent, 43865 bytes (42.8 KB) received, lifetime 00:02
+442	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 869 bytes sent, 4273 bytes (4.17 KB) received, lifetime 00:05
+443	[10.30 20:44:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+444	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+445	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+446	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+447	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+448	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 944 bytes sent, 987 bytes received, lifetime <1 sec
+449	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 921 bytes sent, 3271 bytes (3.19 KB) received, lifetime <1 sec
+450	[10.30 20:44:55] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+451	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+452	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+453	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+454	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+455	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+456	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1916 bytes (1.87 KB) sent, 997 bytes received, lifetime <1 sec
+457	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4311 bytes (4.20 KB) sent, 1430 bytes (1.39 KB) received, lifetime 00:01
+458	[10.30 20:44:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+459	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1791 bytes (1.74 KB) sent, 359 bytes received, lifetime 00:01
+460	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1715 bytes (1.67 KB) sent, 565 bytes received, lifetime 00:01
+461	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1501 bytes (1.46 KB) sent, 601 bytes received, lifetime 00:01
+462	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3569 bytes (3.48 KB) sent, 310 bytes received, lifetime <1 sec
+463	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+464	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1500 bytes (1.46 KB) sent, 353 bytes received, lifetime 00:01
+465	[10.30 20:44:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+466	[10.30 20:45:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2549 bytes (2.48 KB) sent, 586 bytes received, lifetime 00:03
+467	[10.30 20:45:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1744 bytes (1.70 KB) sent, 712 bytes received, lifetime 00:04
+468	[10.30 20:45:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+469	[10.30 20:45:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+470	[10.30 20:45:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+471	[10.30 20:45:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+472	[10.30 20:45:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2757 bytes (2.69 KB) sent, 1218925 bytes (1.16 MB) received, lifetime 00:13
+473	[10.30 20:45:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1901 bytes (1.85 KB) sent, 23340 bytes (22.7 KB) received, lifetime 00:02
+474	[10.30 20:45:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+475	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 726 bytes sent, 310 bytes received, lifetime 00:01
+476	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1738 bytes (1.69 KB) sent, 8808 bytes (8.60 KB) received, lifetime 00:25
+477	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3403 bytes (3.32 KB) sent, 30235 bytes (29.5 KB) received, lifetime 00:25
+478	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 869 bytes sent, 3838 bytes (3.74 KB) received, lifetime 00:25
+479	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 874 bytes sent, 21041 bytes (20.5 KB) received, lifetime 00:13
+480	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+481	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+482	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+483	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+484	[10.30 20:45:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+485	[10.30 20:45:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2841 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+486	[10.30 20:45:08] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2587 bytes (2.52 KB) sent, 317 bytes received, lifetime <1 sec
+487	[10.30 20:45:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+488	[10.30 20:45:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2192 bytes (2.14 KB) sent, 34571 bytes (33.7 KB) received, lifetime 00:02
+489	[10.30 20:45:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 784 bytes sent, 348 bytes received, lifetime 00:02
+490	[10.30 20:45:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2379 bytes (2.32 KB) sent, 6529 bytes (6.37 KB) received, lifetime 00:02
+491	[10.30 20:45:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:07
+492	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+493	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+494	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+495	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+496	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+497	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+498	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+499	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+500	[10.30 20:45:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+501	[10.30 20:45:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+502	[10.30 20:45:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+503	[10.30 20:45:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2371 bytes (2.31 KB) sent, 911 bytes received, lifetime 00:07
+504	[10.30 20:45:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+505	[10.30 20:45:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+506	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1171 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01
+507	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+508	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:08
+509	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+510	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+511	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+512	[10.30 20:45:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+513	[10.30 20:45:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 968 bytes sent, 272 bytes received, lifetime 00:01
+514	[10.30 20:45:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+515	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+516	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+517	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+518	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1411 bytes (1.37 KB) sent, 375 bytes received, lifetime 00:03
+519	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+520	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+521	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+522	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+523	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+524	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+525	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+526	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+527	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4011 bytes (3.91 KB) sent, 72259 bytes (70.5 KB) received, lifetime 00:03
+528	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 786 bytes sent, 348 bytes received, lifetime 00:03
+529	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+530	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+531	[10.30 20:45:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+532	[10.30 20:45:22] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+533	[10.30 20:45:22] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+534	[10.30 20:45:22] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1429 bytes (1.39 KB) sent, 687 bytes received, lifetime <1 sec
+535	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2382 bytes (2.32 KB) sent, 750 bytes received, lifetime 00:02
+536	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1374 bytes (1.34 KB) sent, 29386 bytes (28.6 KB) received, lifetime 00:03
+537	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+538	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+539	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+540	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+541	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+542	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+543	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+544	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+545	[10.30 20:45:24] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+546	[10.30 20:45:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+547	[10.30 20:45:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+548	[10.30 20:45:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+549	[10.30 20:45:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5254 bytes (5.13 KB) sent, 6808 bytes (6.64 KB) received, lifetime 00:04
+550	[10.30 20:45:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+551	[10.30 20:45:36] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+552	[10.30 20:45:36] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1111 bytes (1.08 KB) sent, 406 bytes received, lifetime <1 sec
+553	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1173 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01
+554	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2131 bytes (2.08 KB) sent, 816 bytes received, lifetime 00:12
+555	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+556	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+557	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3178 bytes (3.10 KB) sent, 2969 bytes (2.89 KB) received, lifetime 00:13
+558	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+559	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:16
+560	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+561	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+562	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+563	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+564	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4676 bytes (4.56 KB) sent, 34722 bytes (33.9 KB) received, lifetime 00:38
+565	[10.30 20:45:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+566	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:04
+567	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:04
+568	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+569	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+570	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+571	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+572	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+573	[10.30 20:45:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 941 bytes sent, 401 bytes received, lifetime <1 sec
+574	[10.30 20:45:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:10
+575	[10.30 20:45:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:10
+576	[10.30 20:45:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:10
+577	[10.30 20:45:51] YodaoDict.exe - oimagea4.ydstatic.com:80 error : A connection request was canceled before the completion. 
+578	[10.30 20:45:51] YodaoDict.exe - oimagea4.ydstatic.com:80 error : A connection request was canceled before the completion. 
+579	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 722 bytes sent, 313 bytes received, lifetime 00:01
+580	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:15
+581	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+582	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+583	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+584	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+585	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:15
+586	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:15
+587	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 968 bytes sent, 275 bytes received, lifetime <1 sec
+588	[10.30 20:45:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1423 bytes (1.38 KB) sent, 691 bytes received, lifetime <1 sec
+589	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+590	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+591	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5533 bytes (5.40 KB) sent, 1693 bytes (1.65 KB) received, lifetime 00:20
+592	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+593	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+594	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+595	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+596	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+597	[10.30 20:45:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+598	[10.30 20:45:58] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+599	[10.30 20:45:59] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+600	[10.30 20:45:59] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1359 bytes (1.32 KB) sent, 378 bytes received, lifetime 00:01
+601	[10.30 20:46:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:01
+602	[10.30 20:46:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+603	[10.30 20:46:07] YodaoDict.exe - oimagea4.ydstatic.com:80 error : A connection request was canceled before the completion. 
+604	[10.30 20:46:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+605	[10.30 20:46:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+606	[10.30 20:46:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+607	[10.30 20:46:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+608	[10.30 20:46:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1008 bytes sent, 21970 bytes (21.4 KB) received, lifetime 00:03
+609	[10.30 20:46:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+610	[10.30 20:46:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 694 bytes sent, 892 bytes received, lifetime <1 sec
+611	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2750 bytes (2.68 KB) sent, 135415 bytes (132 KB) received, lifetime 00:20
+612	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+613	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+614	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+615	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+616	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+617	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+618	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+619	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+620	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+621	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+622	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime <1 sec
+623	[10.30 20:46:19] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime <1 sec
+624	[10.30 20:46:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+625	[10.30 20:46:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2752 bytes (2.68 KB) sent, 56466 bytes (55.1 KB) received, lifetime 00:01
+626	[10.30 20:46:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+627	[10.30 20:46:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+628	[10.30 20:46:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+629	[10.30 20:46:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+630	[10.30 20:46:22] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 451 bytes sent, 356 bytes received, lifetime <1 sec
+631	[10.30 20:46:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+632	[10.30 20:46:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2862 bytes (2.79 KB) sent, 282 bytes received, lifetime 00:01
+633	[10.30 20:46:31] SogouCloud.exe - get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+634	[10.30 20:46:31] SogouCloud.exe - get.sogou.com:80 close, 923 bytes sent, 336 bytes received, lifetime <1 sec
+635	[10.30 20:46:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:18
+636	[10.30 20:46:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:18
+637	[10.30 20:46:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:17
+638	[10.30 20:46:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+639	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+640	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 722 bytes sent, 310 bytes received, lifetime <1 sec
+641	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1173 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01
+642	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+643	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+644	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+645	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+646	[10.30 20:46:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+647	[10.30 20:46:51] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+648	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2588 bytes (2.52 KB) sent, 317 bytes received, lifetime 00:02
+649	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3379 bytes (3.29 KB) sent, 1034 bytes (1.00 KB) received, lifetime 00:02
+650	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+651	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+652	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+653	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+654	[10.30 20:46:52] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 941 bytes sent, 398 bytes received, lifetime <1 sec
+655	[10.30 20:46:53] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2482 bytes (2.42 KB) sent, 1010 bytes received, lifetime 00:01
+656	[10.30 20:46:54] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:02
+657	[10.30 20:46:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+658	[10.30 20:47:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+659	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3702 bytes (3.61 KB) sent, 1125 bytes (1.09 KB) received, lifetime 00:09
+660	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1374 bytes (1.34 KB) sent, 26806 bytes (26.1 KB) received, lifetime 00:11
+661	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2130 bytes (2.08 KB) sent, 816 bytes received, lifetime 00:08
+662	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+663	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+664	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime <1 sec
+665	[10.30 20:47:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1433 bytes (1.39 KB) sent, 688 bytes received, lifetime 00:11
+666	[10.30 20:47:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+667	[10.30 20:47:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+668	[10.30 20:47:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+669	[10.30 20:47:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 941 bytes sent, 398 bytes received, lifetime <1 sec
+670	[10.30 20:47:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+671	[10.30 20:47:07] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:17
+672	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+673	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+674	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+675	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+676	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+677	[10.30 20:47:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+678	[10.30 20:47:17] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+679	[10.30 20:47:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+680	[10.30 20:47:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 697 bytes sent, 889 bytes received, lifetime <1 sec
+681	[10.30 20:47:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+682	[10.30 20:47:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+683	[10.30 20:47:28] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+684	[10.30 20:47:28] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+685	[10.30 20:47:28] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+686	[10.30 20:47:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1419 bytes (1.38 KB) sent, 681 bytes received, lifetime 00:01
+687	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+688	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 731 bytes sent, 310 bytes received, lifetime 00:05
+689	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3387 bytes (3.30 KB) sent, 1034 bytes (1.00 KB) received, lifetime 00:05
+690	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4764 bytes (4.65 KB) sent, 1409 bytes (1.37 KB) received, lifetime 00:14
+691	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+692	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+693	[10.30 20:47:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+694	[10.30 20:47:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+695	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3594 bytes (3.50 KB) sent, 1416 bytes (1.38 KB) received, lifetime 00:06
+696	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+697	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+698	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1174 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01
+699	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:08
+700	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:08
+701	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+702	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+703	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+704	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+705	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+706	[10.30 20:47:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+707	[10.30 20:47:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+708	[10.30 20:47:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+709	[10.30 20:47:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01
+710	[10.30 20:47:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+711	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 731 bytes sent, 310 bytes received, lifetime 00:05
+712	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3387 bytes (3.30 KB) sent, 1034 bytes (1.00 KB) received, lifetime 00:05
+713	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:05
+714	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1376 bytes (1.34 KB) sent, 13653 bytes (13.3 KB) received, lifetime 00:05
+715	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2752 bytes (2.68 KB) sent, 37237 bytes (36.3 KB) received, lifetime 00:05
+716	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:05
+717	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:05
+718	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+719	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+720	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+721	[10.30 20:47:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+722	[10.30 20:47:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2484 bytes (2.42 KB) sent, 1010 bytes received, lifetime 00:02
+723	[10.30 20:47:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:02
+724	[10.30 20:47:50] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+725	[10.30 20:47:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:12
+726	[10.30 20:47:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:12
+727	[10.30 20:47:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:17
+728	[10.30 20:47:57] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:12
+729	[10.30 20:48:10] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+730	[10.30 20:48:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+731	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+732	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+733	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1107 bytes (1.08 KB) sent, 406 bytes received, lifetime 00:01
+734	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+735	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+736	[10.30 20:48:26] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+737	[10.30 20:48:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1423 bytes (1.38 KB) sent, 503 bytes received, lifetime 00:01
+738	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1377 bytes (1.34 KB) sent, 19963 bytes (19.4 KB) received, lifetime 00:03
+739	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+740	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+741	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+742	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+743	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+744	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+745	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+746	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+747	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+748	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+749	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+750	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+751	[10.30 20:48:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+752	[10.30 20:48:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:04
+753	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+754	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 697 bytes sent, 876 bytes received, lifetime <1 sec
+755	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 725 bytes sent, 310 bytes received, lifetime <1 sec
+756	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1107 bytes (1.08 KB) sent, 406 bytes received, lifetime 00:03
+757	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:15
+758	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3184 bytes (3.10 KB) sent, 2970 bytes (2.90 KB) received, lifetime 00:15
+759	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+760	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+761	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+762	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+763	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+764	[10.30 20:48:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+765	[10.30 20:48:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+766	[10.30 20:48:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 970 bytes sent, 272 bytes received, lifetime 00:01
+767	[10.30 20:48:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+768	[10.30 20:48:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+769	[10.30 20:48:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 942 bytes sent, 398 bytes received, lifetime <1 sec
+770	[10.30 20:48:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+771	[10.30 20:48:47] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+772	[10.30 20:49:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:15
+773	[10.30 20:49:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1455 bytes (1.42 KB) sent, 1794 bytes (1.75 KB) received, lifetime <1 sec
+774	[10.30 20:49:01] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+775	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 731 bytes sent, 310 bytes received, lifetime 00:01
+776	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 618 bytes sent, 3235 bytes (3.15 KB) received, lifetime 00:16
+777	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:16
+778	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:18
+779	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+780	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+781	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+782	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+783	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+784	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+785	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+786	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+787	[10.30 20:49:02] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+788	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2231 bytes (2.17 KB) sent, 659 bytes received, lifetime 00:01
+789	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+790	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+791	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+792	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+793	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 788 bytes sent, 348 bytes received, lifetime 00:01
+794	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+795	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+796	[10.30 20:49:03] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+797	[10.30 20:49:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+798	[10.30 20:49:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:18
+799	[10.30 20:49:13] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1455 bytes (1.42 KB) sent, 1800 bytes (1.75 KB) received, lifetime <1 sec
+800	[10.30 20:49:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+801	[10.30 20:49:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+802	[10.30 20:49:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+803	[10.30 20:49:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+804	[10.30 20:49:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:11
+805	[10.30 20:49:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+806	[10.30 20:49:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+807	[10.30 20:49:15] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+808	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:06
+809	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:06
+810	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+811	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+812	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 731 bytes sent, 313 bytes received, lifetime 00:08
+813	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+814	[10.30 20:49:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+815	[10.30 20:49:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+816	[10.30 20:49:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime <1 sec
+817	[10.30 20:49:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+818	[10.30 20:49:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+819	[10.30 20:49:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:13
+820	[10.30 20:49:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+821	[10.30 20:49:59] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 952 bytes sent, 782 bytes received, lifetime 00:10
+822	[10.30 20:50:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2015 bytes (1.96 KB) sent, 1426 bytes (1.39 KB) received, lifetime 04:00
+823	[10.30 20:50:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3149 bytes (3.07 KB) sent, 2192 bytes (2.14 KB) received, lifetime 04:01
+824	[10.30 20:51:01] Dropbox.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+825	[10.30 20:51:02] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+826	[10.30 20:51:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1578 bytes (1.54 KB) sent, 702 bytes received, lifetime 02:19
+827	[10.30 20:51:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 4498 bytes (4.39 KB) sent, 654 bytes received, lifetime 02:17
+828	[10.30 20:51:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 12124 bytes (11.8 KB) sent, 101999 bytes (99.6 KB) received, lifetime 02:32
+829	[10.30 20:51:48] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 6409 bytes (6.25 KB) sent, 2466 bytes (2.40 KB) received, lifetime 02:44
+830	[10.30 20:51:49] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 725 bytes sent, 313 bytes received, lifetime 02:00
+831	[10.30 20:52:14] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+832	[10.30 20:52:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+833	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+834	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+835	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+836	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+837	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 946 bytes sent, 783 bytes received, lifetime <1 sec
+838	[10.30 20:53:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 946 bytes sent, 783 bytes received, lifetime <1 sec
+839	[10.30 20:53:19] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 435 bytes sent, 356 bytes received, lifetime <1 sec
+840	[10.30 20:54:01] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+841	[10.30 20:54:05] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+842	[10.30 20:55:28] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+843	[10.30 20:55:28] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+844	[10.30 20:55:49] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+845	[10.30 20:56:27] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2917 bytes (2.84 KB) sent, 1093 bytes (1.06 KB) received, lifetime 04:00
+846	[10.30 20:57:18] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2439 bytes (2.38 KB) sent, 5341 bytes (5.21 KB) received, lifetime 04:00
+847	[10.30 20:57:25] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 388 bytes sent, 2504 bytes (2.44 KB) received, lifetime <1 sec
+848	[10.30 20:57:43] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+849	[10.30 20:57:44] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 451 bytes sent, 356 bytes received, lifetime <1 sec
+850	[10.30 20:58:06] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5357 bytes (5.23 KB) sent, 2575 bytes (2.51 KB) received, lifetime 08:17
+851	[10.30 20:58:23] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+852	[10.30 20:59:26] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+853	[10.30 20:59:47] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+854	[10.30 20:59:47] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+855	[10.30 21:03:16] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 259 bytes sent, 9870 bytes (9.63 KB) received, lifetime <1 sec
+856	[10.30 21:03:19] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 435 bytes sent, 356 bytes received, lifetime <1 sec
+857	[10.30 21:03:34] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+858	[10.30 21:03:55] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+859	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+860	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+861	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+862	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+863	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+864	[10.30 21:05:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+865	[10.30 21:05:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+866	[10.30 21:05:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+867	[10.30 21:05:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+868	[10.30 21:05:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+869	[10.30 21:05:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+870	[10.30 21:05:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2601 bytes (2.54 KB) sent, 385 bytes received, lifetime 00:01
+871	[10.30 21:05:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+872	[10.30 21:05:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+873	[10.30 21:05:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+874	[10.30 21:05:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+875	[10.30 21:05:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:03
+876	[10.30 21:05:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+877	[10.30 21:05:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+878	[10.30 21:05:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 440 bytes sent, 7460 bytes (7.28 KB) received, lifetime <1 sec
+879	[10.30 21:05:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 866 bytes sent, 401 bytes received, lifetime 00:05
+880	[10.30 21:05:37] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+881	[10.30 21:05:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1247 bytes (1.21 KB) sent, 76104 bytes (74.3 KB) received, lifetime 00:01
+882	[10.30 21:05:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+883	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 11547 bytes (11.2 KB) received, lifetime 00:01
+884	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2635 bytes (2.57 KB) sent, 816 bytes received, lifetime 00:04
+885	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:08
+886	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 8078 bytes (7.88 KB) sent, 4925 bytes (4.80 KB) received, lifetime 00:08
+887	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+888	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+889	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 11178 bytes (10.9 KB) received, lifetime <1 sec
+890	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 13063 bytes (12.7 KB) received, lifetime <1 sec
+891	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 10760 bytes (10.5 KB) received, lifetime <1 sec
+892	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 12258 bytes (11.9 KB) received, lifetime <1 sec
+893	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 19240 bytes (18.7 KB) received, lifetime <1 sec
+894	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+895	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1080 bytes (1.05 KB) sent, 8612 bytes (8.41 KB) received, lifetime <1 sec
+896	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+897	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+898	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 526 bytes sent, 4750 bytes (4.63 KB) received, lifetime <1 sec
+899	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1080 bytes (1.05 KB) sent, 4849 bytes (4.73 KB) received, lifetime <1 sec
+900	[10.30 21:05:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 978 bytes sent, 4286 bytes (4.18 KB) received, lifetime <1 sec
+901	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+902	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+903	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+904	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1036 bytes (1.01 KB) sent, 3436 bytes (3.35 KB) received, lifetime 00:09
+905	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 955 bytes sent, 14183 bytes (13.8 KB) received, lifetime <1 sec
+906	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1168 bytes (1.14 KB) sent, 4843 bytes (4.72 KB) received, lifetime <1 sec
+907	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+908	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+909	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+910	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1737 bytes (1.69 KB) sent, 4300 bytes (4.19 KB) received, lifetime 00:06
+911	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1737 bytes (1.69 KB) sent, 8603 bytes (8.40 KB) received, lifetime 00:06
+912	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+913	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+914	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+915	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+916	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+917	[10.30 21:05:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+918	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:01
+919	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+920	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+921	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+922	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+923	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1077 bytes (1.05 KB) sent, 2377 bytes (2.32 KB) received, lifetime <1 sec
+924	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+925	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+926	[10.30 21:05:41] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+927	[10.30 21:05:43] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:02
+928	[10.30 21:05:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 8795 bytes (8.58 KB) received, lifetime 00:01
+929	[10.30 21:05:44] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+930	[10.30 21:05:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2154 bytes (2.10 KB) sent, 6426 bytes (6.27 KB) received, lifetime 00:04
+931	[10.30 21:05:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+932	[10.30 21:05:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+933	[10.30 21:05:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1081 bytes (1.05 KB) sent, 401 bytes received, lifetime 00:01
+934	[10.30 21:05:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+935	[10.30 21:06:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+936	[10.30 21:06:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+937	[10.30 21:06:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+938	[10.30 21:06:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+939	[10.30 21:06:00] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 0 bytes sent, 0 bytes received, lifetime 00:20
+940	[10.30 21:06:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+941	[10.30 21:06:21] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+942	[10.30 21:06:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2130 bytes (2.08 KB) sent, 17099 bytes (16.6 KB) received, lifetime 00:03
+943	[10.30 21:06:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+944	[10.30 21:06:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+945	[10.30 21:06:25] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+946	[10.30 21:06:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1065 bytes (1.04 KB) sent, 10127 bytes (9.88 KB) received, lifetime 00:07
+947	[10.30 21:06:29] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+948	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2142 bytes (2.09 KB) sent, 14175 bytes (13.8 KB) received, lifetime 00:49
+949	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2130 bytes (2.08 KB) sent, 19159 bytes (18.7 KB) received, lifetime 00:09
+950	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1055 bytes (1.03 KB) sent, 366 bytes received, lifetime 00:51
+951	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+952	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1470 bytes (1.43 KB) sent, 408 bytes received, lifetime 00:50
+953	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+954	[10.30 21:06:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+955	[10.30 21:06:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+956	[10.30 21:06:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+957	[10.30 21:06:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+958	[10.30 21:06:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+959	[10.30 21:06:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1523 bytes (1.48 KB) sent, 36987 bytes (36.1 KB) received, lifetime 00:52
+960	[10.30 21:06:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+961	[10.30 21:06:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+962	[10.30 21:06:34] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 952 bytes sent, 782 bytes received, lifetime 00:09
+963	[10.30 21:06:35] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+964	[10.30 21:06:36] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+965	[10.30 21:06:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 5068 bytes (4.94 KB) sent, 48631 bytes (47.4 KB) received, lifetime 00:13
+966	[10.30 21:06:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 15836 bytes (15.4 KB) sent, 13071 bytes (12.7 KB) received, lifetime 00:34
+967	[10.30 21:06:38] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+968	[10.30 21:06:40] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+969	[10.30 21:06:45] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+970	[10.30 21:06:50] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+971	[10.30 21:06:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+972	[10.30 21:06:59] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+973	[10.30 21:07:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+974	[10.30 21:07:20] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1303 bytes (1.27 KB) sent, 1026 bytes (1.00 KB) received, lifetime <1 sec
+975	[10.30 21:07:30] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+976	[10.30 21:07:31] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+977	[10.30 21:08:03] spoolsv.exe *64 - 127.0.0.1:135 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:8000 - Proxy server cannot establish a connection with the target, status code 403
+978	[10.30 21:08:04] YodaoDict.exe - oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+979	[10.30 21:08:23] AcroRd32.exe - proxy.cse.cuhk.edu.hk:8000 close, 243 bytes sent, 384 bytes received, lifetime 00:28
+980	[10.30 21:08:23] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 441 bytes sent, 687 bytes received, lifetime <1 sec
+981	[10.30 21:09:04] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+982	[10.30 21:09:28] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 435 bytes sent, 273 bytes received, lifetime <1 sec
+983	[10.30 21:09:35] WeChat.exe - dns.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+984	[10.30 21:09:35] WeChat.exe - dns.weixin.qq.com:443 close, 357 bytes sent, 3481 bytes (3.39 KB) received, lifetime <1 sec
+985	[10.30 21:10:39] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 1619 bytes (1.58 KB) sent, 1125 bytes (1.09 KB) received, lifetime 04:00
+986	[10.30 21:10:56] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 3391 bytes (3.31 KB) sent, 7982 bytes (7.79 KB) received, lifetime 04:14
+987	[10.30 21:10:59] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2145 bytes (2.09 KB) sent, 5126 bytes (5.00 KB) received, lifetime 04:00
+988	[10.30 21:10:59] WeChat.exe - short.weixin.qq.com:80 error : A connection request was canceled before the completion. 
+989	[10.30 21:10:59] WeChat.exe - short.weixin.qq.com:80 error : A connection request was canceled before the completion. 
+990	[10.30 21:11:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2691 bytes (2.62 KB) sent, 57687 bytes (56.3 KB) received, lifetime 04:01
+991	[10.30 21:11:09] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2001 bytes (1.95 KB) sent, 18018 bytes (17.5 KB) received, lifetime 04:00
+992	[10.30 21:11:10] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2493 bytes (2.43 KB) sent, 1988 bytes (1.94 KB) received, lifetime 04:20
+993	[10.30 21:11:51] YodaoDict.exe - oimageb6.ydstatic.com:80 error : A connection request was canceled before the completion. 
+994	[10.30 21:11:55] YodaoDict.exe - oimagec5.ydstatic.com:80 error : A connection request was canceled before the completion. 
+995	[10.30 21:11:55] YodaoDict.exe - oimagec6.ydstatic.com:80 error : A connection request was canceled before the completion. 
+996	[10.30 21:11:55] YodaoDict.exe - oimageb1.ydstatic.com:80 error : A connection request was canceled before the completion. 
+997	[10.30 21:12:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+998	[10.30 21:12:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
+999	[10.30 21:12:32] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 952 bytes sent, 782 bytes received, lifetime <1 sec
+1000	[10.30 21:12:33] chrome.exe - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS

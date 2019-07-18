@@ -1,0 +1,1 @@
+973	136580 node-150 unix.hw net.niff.up 1111865217 1 NIFF: node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0

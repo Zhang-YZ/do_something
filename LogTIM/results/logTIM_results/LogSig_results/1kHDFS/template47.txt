@@ -1,0 +1,1 @@
+66	081110 224218 30 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.198.196:50010 is added to blk_1779145401405339993 size 28499417

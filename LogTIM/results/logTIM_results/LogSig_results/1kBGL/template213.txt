@@ -1,0 +1,2 @@
+984	- 1134784680 2005.12.16 R66-M0-N8-I:J18-U01 2005-12-16-17.58.00.577715 R66-M0-N8-I:J18-U01 RAS KERNEL INFO ciod: pollControlDescriptors: Detected the debugger died.
+987	- 1135050698 2005.12.19 R77-M1-NC-I:J18-U01 2005-12-19-19.51.38.151363 R77-M1-NC-I:J18-U01 RAS KERNEL INFO ciod: pollControlDescriptors: Detected the debugger died.

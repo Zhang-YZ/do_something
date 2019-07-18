@@ -1,0 +1,28 @@
+logTIM processing
+trainData_path: /home/chenyihao/LogTIM/results/IPLoM_results/1kZookeeper_head
+logFile_path: /home/chenyihao/LogTIM/data/1kZookeeper_tail/rawlog.log
+rawLog_path: /home/chenyihao/LogTIM/data/1kZookeeper_head
+geneData_path: /home/chenyihao/LogTIM/results/logTIM_results/IPLoM_results/1kZookeeper
+gtData_path: /home/chenyihao/LogTIM/data/1kZookeeper_tail
+rex: ['(/|)([0-9]+\\.){3}[0-9]+(:[0-9]+|)(:|)']
+realtime: False
+*********************************************
+Original template num: 31
+Data loaded from /home/chenyihao/LogTIM/results/IPLoM_results/1kZookeeper_head, trainning rate is 1.000000
+train_data shape is (456, 94)
+testing_data shape is (0,)
+SVM classifier
+*********************************************
+read 1000 lines from /home/chenyihao/LogTIM/data/1kZookeeper_tail/rawlog.log
+final template num: 180
+time:  0.2769765853881836
+groundTruthDataPath: /home/chenyihao/LogTIM/data/1kZookeeper_tail/
+/home/chenyihao/LogTIM/data/1kZookeeper_tail/rawlog.log
+gtLogLabel(all elements are -1): (1000, 1)
+GT clusters are altogether 35 files
+Result clusters are altogether 180 files
+TP,FP,TN,FN are: 42616.0 208.0 443696.0 12980.0
+precision is 0.9951
+recall is 0.7665
+F measure is 0.8660
+RI is 0.9736

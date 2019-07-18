@@ -1,0 +1,1 @@
+930	138312 node-237 unix.hw net.niff.up 1077810015 1 NIFF: node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0

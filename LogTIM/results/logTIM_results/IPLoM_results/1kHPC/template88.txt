@@ -1,0 +1,1 @@
+984	244815 node-205 unix.hw net.niff.up 1118546462 1 NIFF: node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0

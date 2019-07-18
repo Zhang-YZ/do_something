@@ -1,0 +1,1 @@
+209	081111 030051 35 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.179:50010 is added to blk_-900758580041645081 size 3543900

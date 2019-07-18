@@ -1,0 +1,1 @@
+945	2015-07-30 16:18:14,811 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1001] - Closed socket connection for client /10.10.34.18:46783 which had sessionid 0x34ed9ac1c1e0086

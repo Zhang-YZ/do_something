@@ -1,0 +1,4 @@
+511	2015-07-30 13:47:25,927 - INFO [NIOServerCxn.Factory:NIOServerCnxnFactory@197] - Accepted socket connection from
+512	2015-07-30 14:42:40,474 - INFO [NIOServerCxn.Factory:NIOServerCnxnFactory@197] - Accepted socket connection from
+524	2015-07-30 16:12:02,180 - INFO [NIOServerCxn.Factory:NIOServerCnxnFactory@197] - Accepted socket connection from
+571	2015-07-30 23:52:26,272 - INFO [QuorumPeer[myid=1]/0:0:0:0:0:0:0:0:2181:FastLeaderElection@774] - Notification time out: 60000

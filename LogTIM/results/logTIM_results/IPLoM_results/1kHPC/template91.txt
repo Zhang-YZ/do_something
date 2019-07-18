@@ -1,0 +1,12 @@
+989	254193 node-221 unix.hw net.niff.up 1118929750 1 NIFF: node node-221 has detected an available network connection on network 5.5.224.0 via interface alt0
+990	55567 node-189 unix.hw net.niff.up 1126813684 1 NIFF: node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0
+991	55724 node-218 unix.hw net.niff.up 1126813843 1 NIFF: node node-218 has detected an available network connection on network 5.5.224.0 via interface alt0
+992	171898 node-94 unix.hw net.niff.up 1131216735 1 NIFF: node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0
+993	171611 node-248 unix.hw net.niff.up 1131216568 1 NIFF: node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0
+994	171259 node-176 unix.hw net.niff.up 1131216398 1 NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+995	193084 node-77 unix.hw net.niff.up 1131241578 1 NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0
+996	193772 node-176 unix.hw net.niff.up 1131242001 1 NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+997	219086 node-178 unix.hw net.niff.up 1132154180 1 NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0
+998	219199 node-161 unix.hw net.niff.up 1132154183 1 NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0
+999	219402 node-73 unix.hw net.niff.up 1132154292 1 NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0
+1000	288035 node-171 unix.hw net.niff.up 1134671139 1 NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0

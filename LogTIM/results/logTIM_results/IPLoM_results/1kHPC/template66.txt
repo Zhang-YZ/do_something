@@ -1,0 +1,1 @@
+943	245674 node-45 unix.hw net.niff.up 1079048409 1 NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0

@@ -1,0 +1,1 @@
+971	112896 node-204 unix.hw net.niff.up 1111072255 1 NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0

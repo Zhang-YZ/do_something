@@ -1,0 +1,2 @@
+406	2015-08-10 18:23:56,268 - INFO [NIOServerCxn.Factory:Learner@107] - Revalidating client: 0x24f0557806a001c
+409	2015-08-10 18:25:25,413 - INFO [QuorumCnxManager$Listener@493] - Received connection request

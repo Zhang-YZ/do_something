@@ -1,0 +1,1 @@
+461	2015-08-25 11:26:28,145 - INFO [QuorumPeer[myid=2]/0:0:0:0:0:0:0:0:2181:Learner@325] - Getting a snapshot from leader

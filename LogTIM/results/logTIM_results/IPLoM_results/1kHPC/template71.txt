@@ -1,0 +1,1 @@
+952	326478 node-113 unix.hw net.niff.up 1083202436 1 NIFF: node node-113 has detected an available network connection on network 5.5.224.0 via interface alt0

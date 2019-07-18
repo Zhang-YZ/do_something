@@ -1,0 +1,1 @@
+918	2602507 node-142 unix.hw net.niff.up 1074300633 1 NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0

@@ -1,0 +1,6 @@
+156	081111 023216 19 INFO dfs.FSDataset: Deleting block blk_-2923662094689783995 file /mnt/hadoop/dfs/data/current/subdir38/blk_-2923662094689783995
+389	081111 044554 19 INFO dfs.FSDataset: Deleting block blk_-8547071368131084410 file /mnt/hadoop/dfs/data/current/subdir38/blk_-8547071368131084410
+735	081111 075833 19 INFO dfs.FSDataset: Deleting block blk_-4380385204018751771 file /mnt/hadoop/dfs/data/current/subdir38/blk_-4380385204018751771
+867	081111 090056 19 INFO dfs.FSDataset: Deleting block blk_-6177194341369822651 file /mnt/hadoop/dfs/data/current/subdir38/blk_-6177194341369822651
+886	081111 090229 18 INFO dfs.FSDataset: Deleting block blk_5100975846124291571 file /mnt/hadoop/dfs/data/current/subdir38/blk_5100975846124291571
+967	081111 100210 19 INFO dfs.FSDataset: Deleting block blk_-1082541280306680938 file /mnt/hadoop/dfs/data/current/subdir38/blk_-1082541280306680938

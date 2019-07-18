@@ -1,0 +1,6 @@
+INFO
+INFO dfs.DataNode$PacketResponder: Received block of size from
+081109 INFO dfs.DataNode$DataXceiver: Receiving block src: dest:
+INFO dfs.FSDataset: Deleting block file
+WARN dfs.DataNode$DataXceiver: Got exception while serving to
+912 081110 211541 18 INFO dfs.DataNode: Starting thread to transfer block to

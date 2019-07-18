@@ -1,0 +1,1 @@
+917	2601700 node-120 unix.hw net.niff.up 1074298522 1 NIFF: node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0

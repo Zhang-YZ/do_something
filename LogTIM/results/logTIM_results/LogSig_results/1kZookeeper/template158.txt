@@ -1,0 +1,1 @@
+410	2015-08-10 18:25:25,673 - INFO  [QuorumPeer[myid=2]/0:0:0:0:0:0:0:0:2181:QuorumPeer@738] - FOLLOWING
