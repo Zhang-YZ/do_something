@@ -9,14 +9,14 @@ import threading
 ans = []
 
 
-class MyThread:
+class MyThread(threading.Thread):
     def __init__(self, threadID, argv):
         threading.Thread.__init__(self)
         self.threadID = threadID
         self.argv=argv
     def run(self):
         deal_argv(self.argv)
-        print(argv[1]+" finished")
+        print("========== "+self.argv[1]+" finished")
 
 
 # def time_func(function):
@@ -51,12 +51,12 @@ def compress_lz4(sourceFile,destFile):
         des.flush()
 
 
-# @time_func
-# def compress_bzip(sourceFile,destFile):
-#     with bz2.BZ2File(destFile, 'wb') as des:
-#         with open(sourceFile, 'rb') as sou:
-#             des.writelines(sou)
-#         des.flush()
+@time_func
+def compress_bzip(sourceFile,destFile):
+    with bz2.BZ2File(destFile, 'wb') as des:
+        with open(sourceFile, 'rb') as sou:
+            des.writelines(sou)
+        des.flush()
 
 # @time_func
 # def compress_gzip2 (sourceFile,destFile):
@@ -77,9 +77,9 @@ def compress_zip(sourceFile,destFile):
 def compress_gzip(sourceFile,destFile):
     os.system("7z a -tgzip {destfile} {sourcefile}".format(destfile=destFile,sourcefile=sourceFile))
 
-@time_func
-def compress_bzip(sourceFile,destFile):
-    os.system("7z a -tbzip2 {destfile} {sourcefile}".format(destfile=destFile,sourcefile=sourceFile))
+# @time_func
+# def compress_bzip(sourceFile,destFile):
+#     os.system("7z a -tbzip2 {destfile} {sourcefile}".format(destfile=destFile,sourcefile=sourceFile))
 
 
 def deal_argv(argv):
@@ -159,13 +159,13 @@ if __name__=="__main__":
                     for i in range(len(threads)):
                         threads[i].join()
                     time1=time.time()
-                    print("?????"+(time1-time0))
-                elif sys.argv[2] =="series":
+                    print("========== Parallel time: {0}".format(time1-time0))
+                elif sys.argv[2] =="serial":
                     time0=time.time()
                     for i in range(4,length):
                         deal_argv([sys.argv[3],sys.argv[i]])
                     time1 = time.time()
-                    print("?????"+(time1-time0))
+                    print("========== Serial time: {0}".format(time1-time0))
                 elif sys.argv[2] == "compare":
                     time0=time.time()
                     threads=[]
@@ -176,11 +176,13 @@ if __name__=="__main__":
                     for i in range(len(threads)):
                         threads[i].join()
                     time1=time.time()
-                    print("?????"+(time1-time0))
                     for i in range(4,length):
                         deal_argv([sys.argv[3],sys.argv[i]])
                     time2 = time.time()
-                    print("?????"+(time2-time1))
+                    print("\n\n\n==========Result of {}==========".format(sys.argv[3]))
+                    print("File number: {}".format(length-4))
+                    print("Parallel time: {}".format(time1-time0))
+                    print("Serial time: {}".format(time2-time1))
                 else:
                     print("error!\n\n")
         else:
