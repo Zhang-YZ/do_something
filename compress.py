@@ -4,6 +4,8 @@ import gzip
 import bz2
 import time
 import os
+import _thread
+
 
 ans = []
 
@@ -100,12 +102,21 @@ def main(argv):
         print("Usage：compressWay source_file_name dest_file_name.compressWay")
 
 
+def deal_argv(arg)
+
 
 if __name__=="__main__":
     if len(sys.argv)<3:
         print("Please input more args.")
     else:
-        if sys.argv[1]!="all":
+        if sys.argv[1]=="parallel":
+            length = len(sys.argv)
+            if length<4:
+                print("Please input more args")
+            else:
+                for i in range(length-3):
+                
+        elif sys.argv[1]!="all":
             main(sys.argv[1:])
         else:
             ways = ["lz4","gz","bz","7z","zip"]
