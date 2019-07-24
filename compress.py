@@ -4,10 +4,19 @@ import gzip
 import bz2
 import time
 import os
-import _thread
-
+import threading
 
 ans = []
+
+
+class MyThread:
+    def __init__(self, threadID, argv):
+        threading.Thread.__init__(self)
+        self.threadID = threadID
+        self.argv=argv
+    def run(self):
+        main(argv)
+
 
 def time_func(function):
     def inner(sourceFile,destFile,*args,**kwargs):
@@ -61,7 +70,7 @@ def compress_bzip(sourceFile,destFile):
     os.system("7z a -tbzip2 {destfile} {sourcefile}".format(destfile=destFile,sourcefile=sourceFile))
 
 
-def main(argv):
+def deal_argv(argv):
     try:
         with open(argv[1],mode="r") as f:
             pass
@@ -102,7 +111,24 @@ def main(argv):
         print("Usage：compressWay source_file_name dest_file_name.compressWay")
 
 
-def deal_argv(arg)
+def main(argv):
+    if argv[1]!="all":
+        deal_argv(argv[1:])
+    else:
+        ways = ["lz4","gz","bz","7z","zip"]
+        for way in ways:
+            argv=[way,argv[2]]
+            deal_argv(argv)
+
+def parallel_main(argv):
+    if argv[1]!="all":
+        deal_argv(argv[1:])
+    else:
+        ways = ["lz4","gz","bz","7z","zip"]
+        for way in ways:
+            argv=[way,argv[2]]
+            _thread.start_new_thread(deal_argv,(argv))
+
 
 
 if __name__=="__main__":
@@ -114,16 +140,13 @@ if __name__=="__main__":
             if length<4:
                 print("Please input more args")
             else:
-                for i in range(length-3):
+                threads=[]
+                time0=time.time()
+                for i in range(3,length):
+                    threads.append(MyThread(i-2,[sys.argv[0],sys.argv[2],sys.argv[i]])
                 
-        elif sys.argv[1]!="all":
-            main(sys.argv[1:])
         else:
-            ways = ["lz4","gz","bz","7z","zip"]
-            for way in ways:
-                print(way)
-                argv=[way,sys.argv[2]]
-                main(argv)
+            main(sys.argv)
         print()
         print("=============result============")
         for i in ans:
