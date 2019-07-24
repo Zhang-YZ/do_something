@@ -15,7 +15,20 @@ class MyThread:
         self.threadID = threadID
         self.argv=argv
     def run(self):
-        main(argv)
+        deal_argv(self.argv)
+        print(argv[1]+" finished")
+
+
+# def time_func(function):
+#     def inner(sourceFile,destFile,*args,**kwargs):
+#         sourceSize = os.path.getsize(sourceFile)
+#         t0=time.time()
+#         result = function(sourceFile,destFile)
+#         t1=time.time()
+#         destSize = os.path.getsize(destFile)
+#         ans.append([round(t1-t0,5),round(destSize/sourceSize,5),function.__name__])
+#         return result
+#     return inner
 
 
 def time_func(function):
@@ -25,7 +38,7 @@ def time_func(function):
         result = function(sourceFile,destFile)
         t1=time.time()
         destSize = os.path.getsize(destFile)
-        ans.append([round(t1-t0,5),round(destSize/sourceSize,5),function.__name__])
+        ans.append([round(t1-t0,5),round(destSize/sourceSize,5),function.__name__,sourceFile])
         return result
     return inner
 
@@ -39,18 +52,17 @@ def compress_lz4(sourceFile,destFile):
 
 
 # @time_func
-# def compress_gzip(sourceFile,destFile):
-#     with gzip.open(destFile, 'wb') as des:
-#         with open(sourceFile, 'rb') as sou:
-#             des.write(lz4.frame.compress(sou.read()))
-#         des.flush()
-
-# @time_func
 # def compress_bzip(sourceFile,destFile):
 #     with bz2.BZ2File(destFile, 'wb') as des:
 #         with open(sourceFile, 'rb') as sou:
-#             des.write(lz4.frame.compress(sou.read()))
+#             des.writelines(sou)
 #         des.flush()
+
+# @time_func
+# def compress_gzip2 (sourceFile,destFile):
+#     with gzip.open(destFile,'wb') as des:
+#         with open(sourceFile,'rb') as sou:
+#             des.writelines(sou)
 
 @time_func
 def compress_7zip(sourceFile,destFile):
@@ -108,7 +120,7 @@ def deal_argv(argv):
             argv[2]=argv[2]+".zip"
         compress_zip(argv[1],argv[2])
     else:
-        print("Usage：compressWay source_file_name dest_file_name.compressWay")
+        print("Usage: compressWay source_file_name dest_file_name.compressWay")
 
 
 def main(argv):
@@ -119,37 +131,58 @@ def main(argv):
         for way in ways:
             argv=[way,argv[2]]
             deal_argv(argv)
-
-def parallel_main(argv):
-    if argv[1]!="all":
-        deal_argv(argv[1:])
-    else:
-        ways = ["lz4","gz","bz","7z","zip"]
-        for way in ways:
-            argv=[way,argv[2]]
-            _thread.start_new_thread(deal_argv,(argv))
-
+    print("\n\n\n")
+    mat = "{:^15} | {:^8} | {:^13} | {:^15}"
+    print("===========================Result===========================")
+    print(mat.format("Name","Time","CompressRate","SourceFile"))
+    for i in ans:
+        print(mat.format(i[2],i[0],i[1],i[3]))
+    print("============================================================")
 
 
 if __name__=="__main__":
     if len(sys.argv)<3:
         print("Please input more args.")
     else:
-        if sys.argv[1]=="parallel":
+        if sys.argv[1]=="multi":
             length = len(sys.argv)
-            if length<4:
+            if length<5:
                 print("Please input more args")
             else:
-                threads=[]
-                time0=time.time()
-                for i in range(3,length):
-                    threads.append(MyThread(i-2,[sys.argv[0],sys.argv[2],sys.argv[i]])
-                
+                if sys.argv[2] == "parallel":
+                    time0=time.time()
+                    threads=[]
+                    for i in range(4,length):
+                        threads.append(MyThread(i-2,[sys.argv[3],sys.argv[i]]))
+                    for i in range(len(threads)):
+                        threads[i].start()
+                    for i in range(len(threads)):
+                        threads[i].join()
+                    time1=time.time()
+                    print("?????"+(time1-time0))
+                elif sys.argv[2] =="series":
+                    time0=time.time()
+                    for i in range(4,length):
+                        deal_argv([sys.argv[3],sys.argv[i]])
+                    time1 = time.time()
+                    print("?????"+(time1-time0))
+                elif sys.argv[2] == "compare":
+                    time0=time.time()
+                    threads=[]
+                    for i in range(4,length):
+                        threads.append(MyThread(i-2,[sys.argv[3],sys.argv[i]]))
+                    for i in range(len(threads)):
+                        threads[i].start()
+                    for i in range(len(threads)):
+                        threads[i].join()
+                    time1=time.time()
+                    print("?????"+(time1-time0))
+                    for i in range(4,length):
+                        deal_argv([sys.argv[3],sys.argv[i]])
+                    time2 = time.time()
+                    print("?????"+(time2-time1))
+                else:
+                    print("error!\n\n")
         else:
             main(sys.argv)
-        print()
-        print("=============result============")
-        for i in ans:
-            print("Time:{time} CompressRate:{rate} Name:{funcName}  ".format(time=i[0],rate=i[1],funcName=i[2]))
-            
-
+        
