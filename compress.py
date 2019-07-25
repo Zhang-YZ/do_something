@@ -24,18 +24,6 @@ class MyThread(threading.Thread):
         print("========== "+self.argv[1]+" finished")
 
 
-# def time_func(function):
-#     def inner(sourceFile,destFile,*args,**kwargs):
-#         sourceSize = os.path.getsize(sourceFile)
-#         t0=time.time()
-#         result = function(sourceFile,destFile)
-#         t1=time.time()
-#         destSize = os.path.getsize(destFile)
-#         ans.append([round(t1-t0,5),round(destSize/sourceSize,5),function.__name__])
-#         return result
-#     return inner
-
-
 def time_func(function):
     def inner(sourceFile,destFile,*args,**kwargs):
         sourceSize = os.path.getsize(sourceFile)
@@ -96,31 +84,31 @@ def deal_argv(argv):
         return
     if argv[0] == "lz4":
         if len(argv)==2:
-            argv.append(argv[1].split(".")[0]+".lz4")
+            argv.append(deal_fileName(argv[1])+".lz4")
         elif argv[2][-4:]!=".lz4":
             argv[2]=argv[2]+".lz4"
         compress_lz4(argv[1],argv[2])
     elif argv[0] == "gz":
         if len(argv)==2:
-            argv.append(argv[1].split(".")[0]+".gz")
+            argv.append(deal_fileName(argv[1])+".gz")
         elif argv[2][-3:]!=".gz":
             argv[2]=argv[2]+".gz"
         compress_gzip(argv[1],argv[2])
     elif argv[0] == "bz":
         if len(argv)==2:
-            argv.append(argv[1].split(".")[0]+".bz2")
+            argv.append(deal_fileName(argv[1])+".bz2")
         elif argv[2][-4:]!=".bz2":
             argv[2]=argv[2]+".bz2"
         compress_bzip(argv[1],argv[2])
     elif argv[0] == "7z":
         if len(argv)==2:
-            argv.append(argv[1].split(".")[0]+".7z")
+            argv.append(deal_fileName(argv[1])+".7z")
         elif argv[2][-3:]!=".7z":
             argv[2]=argv[2]+".7z"
         compress_7zip(argv[1],argv[2])
     elif argv[0] == "zip":
         if len(argv)==2:
-            argv.append(argv[1].split(".")[0]+".zip")
+            argv.append(deal_fileName(argv[1])+".zip")
         elif argv[2][-4:]!=".zip":
             argv[2]=argv[2]+".zip"
         compress_zip(argv[1],argv[2])
@@ -134,8 +122,8 @@ def main(argv):
     else:
         ways = ["lz4","gz","bz","7z","zip"]
         for way in ways:
-            argv=[way,argv[2]]
-            deal_argv(argv)
+            tempargv=[way,argv[2]]
+            deal_argv(tempargv)
     print("\n\n\n")
     mat = "{:^15} | {:^8} | {:^13} | {:^15}"
     print("===========================Result===========================")
