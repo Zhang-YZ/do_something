@@ -96,35 +96,35 @@ def deal_argv(argv):
         elif argv[2][-4:]!=".lz4":
             argv[2]=argv[2]+".lz4"
         compress_lz4(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/tempans[0],5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/tempans[0],5)])
     elif argv[0] == "gz":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".gz")
         elif argv[2][-3:]!=".gz":
             argv[2]=argv[2]+".gz"
         compress_gzip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/tempans[0],5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/tempans[0],5)])
     elif argv[0] == "bz":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".bz2")
         elif argv[2][-4:]!=".bz2":
             argv[2]=argv[2]+".bz2"
         compress_bzip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/tempans[0],5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/tempans[0],5)])
     elif argv[0] == "7z":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".7z")
         elif argv[2][-3:]!=".7z":
             argv[2]=argv[2]+".7z"
         compress_7zip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/tempans[0],5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/tempans[0],5)])
     elif argv[0] == "zip":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".zip")
         elif argv[2][-4:]!=".zip":
             argv[2]=argv[2]+".zip"
         compress_zip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/tempans[0],5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/tempans[0],5)])
     else:
         print("Usage: compressWay source_file_name dest_file_name.compressWay")
 
@@ -144,35 +144,35 @@ def deal_argv_match(argv,sourceSize):
         elif argv[2][-4:]!=".lz4":
             argv[2]=argv[2]+".lz4"
         compress_lz4(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/sourceSize,5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/sourceSize,5)])
     elif argv[0] == "gz":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".gz")
         elif argv[2][-3:]!=".gz":
             argv[2]=argv[2]+".gz"
         compress_gzip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/sourceSize,5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/sourceSize,5)])
     elif argv[0] == "bz":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".bz2")
         elif argv[2][-4:]!=".bz2":
             argv[2]=argv[2]+".bz2"
         compress_bzip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/sourceSize,5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/sourceSize,5)])
     elif argv[0] == "7z":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".7z")
         elif argv[2][-3:]!=".7z":
             argv[2]=argv[2]+".7z"
         compress_7zip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/sourceSize,5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/sourceSize,5)])
     elif argv[0] == "zip":
         if len(argv)==2:
             argv.append(deal_fileName(argv[1])+".zip")
         elif argv[2][-4:]!=".zip":
             argv[2]=argv[2]+".zip"
         compress_zip(argv[1],argv[2])
-        results[len(results)-1].extend([tempans[1],",",round(tempans[1]/sourceSize,5),","])
+        results[len(results)-1].extend([tempans[1],round(tempans[1]/sourceSize,5)])
     else:
         print("Usage: compressWay source_file_name dest_file_name.compressWay")
 
@@ -192,9 +192,9 @@ for path in algPaths:
         sourceSize = rawlogInfo[subPath]["size"]
         try:
             matchResultsSize = os.path.getsize(tempPath)
-            results.append([path,",",subPath,",",sourceSize,",",matchResultsSize,",",round(matchResultsSize/sourceSize,5),","])
+            results.append([path,subPath,sourceSize,matchResultsSize,round(matchResultsSize/sourceSize,5)])
         except:
-            results.append([path,",",subPath,",",sourceSize,",","--",",","--"])
+            results.append([path,subPath,sourceSize,"--","--"])
         ways = ["lz4","gz","bz","7z","zip"]
         for way in ways:
             tempargv=[way,rawlogInfo[subPath]["path"]]
@@ -208,6 +208,6 @@ for path in algPaths:
 
 with open(csvPath,"w") as f:
     f_csv = csv.writer(f)
-    row = ["algorithm",",","way",",","sourceSize",",","matchResultsSize",",","matchResults_rate",",","lz4",",","lz4_rate",",","gz",",","gz_rate",",","bz",",","bz_rate",",","7z",",","7z_rate",",","zip",",","zip_rate",",","double_lz4",",","double_lz4_rate",",","double_gz",",","double_gz_rate",",","double_bz",",","double_bz_rate",",","double_7z",",","double_7z_rate",",","double_zip",",","double_zip_rate"]
+    row = ["algorithm","way","sourceSize","matchResultsSize","matchResults_rate","lz4","lz4_rate","gz","gz_rate","bz","bz_rate","7z","7z_rate","zip","zip_rate","double_lz4","double_lz4_rate","double_gz","double_gz_rate","double_bz","double_bz_rate","double_7z","double_7z_rate","double_zip","double_zip_rate"]
     f_csv.writerow(row)
     f_csv.writerows(results)
