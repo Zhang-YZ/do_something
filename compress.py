@@ -8,6 +8,11 @@ import threading
 
 ans = []
 
+def deal_fileName(fileName):
+    length=len(fileName)
+    for i in range(length):
+        if fileName[length-1-i]==".":
+            return fileName[:length-1-i]
 
 class MyThread(threading.Thread):
     def __init__(self, threadID, argv):
