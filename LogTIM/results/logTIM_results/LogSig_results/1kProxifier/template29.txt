@@ -1,1 +1,0 @@
-48	[10.30 18:03:22] Skype.exe - proxy.cse.cuhk.edu.hk:8000 close, 425 bytes sent, 322 bytes received, lifetime <1 sec

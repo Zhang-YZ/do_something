@@ -1,1 +1,0 @@
-932	139925 node-157 unix.hw net.niff.up 1077810564 1 NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0

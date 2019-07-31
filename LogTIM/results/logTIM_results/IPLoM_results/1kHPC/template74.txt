@@ -1,1 +1,0 @@
-957	403516 node-139 unix.hw net.niff.up 1089897394 1 NIFF: node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0

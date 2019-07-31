@@ -1,1 +1,0 @@
-1957	Intel machine check architecture supported.

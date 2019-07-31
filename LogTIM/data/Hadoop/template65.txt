@@ -1,1 +1,0 @@
-36	Http request log for http.requests.mapreduce is not defined

@@ -1,1 +1,0 @@
-956	389636 node-193 unix.hw net.niff.up 1087510100 1 NIFF: node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0

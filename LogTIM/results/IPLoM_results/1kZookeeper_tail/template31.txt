@@ -1,3 +1,0 @@
-419	2015-08-18 16:09:18,900 - INFO [LearnerHandler-Leader@598] - Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
-430	2015-08-20 17:12:45,757 - WARN [NIOServerCxn.Factory:NIOServerCnxn@354] - Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
-432	2015-08-20 17:13:51,524 - WARN [NIOServerCxn.Factory:NIOServerCnxn@354] - Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running

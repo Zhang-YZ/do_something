@@ -1,1 +1,0 @@
-263	- 1124306491 2005.08.17 R12-M0-N4-I:J18-U01 2005-08-17-12.21.31.579167 R12-M0-N4-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory

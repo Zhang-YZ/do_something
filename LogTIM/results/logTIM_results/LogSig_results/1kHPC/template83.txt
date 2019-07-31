@@ -1,3 +1,0 @@
-449	2558415 Interconnect-1T02 switch_module error 1073119551 1 Link error
-451	2561093 Interconnect-1N01 switch_module error 1073345520 1 Link ok
-452	2560515 Interconnect-1N01 switch_module error 1073246148 1 Link ok

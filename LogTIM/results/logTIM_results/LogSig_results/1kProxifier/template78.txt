@@ -1,1 +1,0 @@
-181	[10.30 20:39:47] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 31257 bytes (30.5 KB) sent, 1846301 bytes (1.76 MB) received, lifetime 01:33

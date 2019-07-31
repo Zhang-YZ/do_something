@@ -1,6 +1,0 @@
-307	30700 Interconnect-1T00 switch_module bcast-error 1076189965 1 Link error
-308	115576 Interconnect-1T00 switch_module bcast-error 1077793578 1 Link error
-310	259323 Interconnect-1T00 switch_module bcast-error 1079076297 1 Link error
-315	295965 Interconnect-1T00 switch_module bcast-error 1081534663 1 Link error
-316	293098 Interconnect-1T00 switch_module bcast-error 1081296321 1 Link error
-318	323647 Interconnect-1T00 switch_module bcast-error 1083198788 1 Link ok

@@ -1,2 +1,0 @@
-40	adding path spec: /mapreduce/*
-41	adding path spec: /ws/*

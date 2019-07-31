@@ -1,5 +1,0 @@
-293	2015-07-30 13:34:19,139 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.11:48701
-304	2015-07-30 15:35:06,129 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.11:54078
-305	2015-07-30 15:35:06,939 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.18:40006
-308	2015-07-30 15:35:20,505 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.11:54134
-345	2015-07-30 19:35:00,506 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.13:52310

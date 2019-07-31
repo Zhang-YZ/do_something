@@ -1,4 +1,0 @@
-436	2015-08-20 17:14:24,000 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded
-437	2015-08-20 17:14:24,000 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x14f3fdae8ba000c, timeout of 10000ms exceeded
-438	2015-08-20 17:14:24,000 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x24f3fdaf7380008, timeout of 10000ms exceeded
-440	2015-08-20 17:24:04,002 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x24f4a631df90002, timeout of 10000ms exceeded

@@ -1,1 +1,0 @@
-469	- 1128027755 2005.09.29 R03-M1-ND-C:J14-U01 2005-09-29-14.02.35.872055 R03-M1-ND-C:J14-U01 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire

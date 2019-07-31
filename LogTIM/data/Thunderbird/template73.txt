@@ -1,1 +1,0 @@
-1205	Local APIC address 0xfee00000

@@ -1,1 +1,0 @@
-219	081111 030418 29 INFO dfs.FSNamesystem: BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001061_0/part-01061. blk_-749176535135404637

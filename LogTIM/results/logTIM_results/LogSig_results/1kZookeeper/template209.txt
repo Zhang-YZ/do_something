@@ -1,1 +1,0 @@
-975	2015-07-30 23:52:53,800 - INFO  [main:QuorumPeer@933] - minSessionTimeout set to -1

@@ -1,1 +1,0 @@
-8	49162 node-8 node temperature 1106245773 1 ambient=27

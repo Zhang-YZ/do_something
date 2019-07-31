@@ -1,4 +1,0 @@
-972	- 1134259774 2005.12.10 R15-M1-NE-C:J06-U01 2005-12-10-16.09.34.106950 R15-M1-NE-C:J06-U01 RAS KERNEL INFO 28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 seconds
-976	- 1134530536 2005.12.13 R74-M1-N0-C:J12-U01 2005-12-13-19.22.16.368819 R74-M1-N0-C:J12-U01 RAS KERNEL INFO 2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds
-979	- 1134623156 2005.12.14 R61-M0-N8-C:J17-U11 2005-12-14-21.05.56.145306 R61-M0-N8-C:J17-U11 RAS KERNEL INFO 2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds
-980	- 1134626183 2005.12.14 R74-M1-N0-C:J12-U01 2005-12-14-21.56.23.782819 R74-M1-N0-C:J12-U01 RAS KERNEL INFO 5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds

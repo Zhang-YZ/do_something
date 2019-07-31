@@ -1,3 +1,0 @@
-323	191911 node-D4 clusterfilesystem fdmn.full 1077949575 1 ServerFileSystem: ServerFileSystem domain root14_local is full
-330	178450 node-D4 clusterfilesystem fdmn.full 1114553373 1 ServerFileSystem: ServerFileSystem domain root22_local is full
-332	218553 node-D4 clusterfilesystem fdmn.full 1117133933 1 ServerFileSystem: ServerFileSystem domain root25_local is full

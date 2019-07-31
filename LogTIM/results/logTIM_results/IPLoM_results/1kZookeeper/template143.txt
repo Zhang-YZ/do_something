@@ -1,1 +1,0 @@
-420	2015-08-18 16:09:22,982 - INFO  [WorkerReceiver[myid=2]:FastLeaderElection@542] - Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)

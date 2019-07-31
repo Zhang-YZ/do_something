@@ -1,1 +1,0 @@
-920	2599118 node-252 unix.hw net.niff.up 1074296980 1 NIFF: node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0

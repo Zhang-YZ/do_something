@@ -1,1 +1,0 @@
-914	2587654 node-17 unix.hw net.niff.up 1074241968 1 NIFF: node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0

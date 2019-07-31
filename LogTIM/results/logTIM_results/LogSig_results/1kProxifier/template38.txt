@@ -1,2 +1,0 @@
-71	[10.30 18:05:10] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 441 bytes sent, 687 bytes received, lifetime <1 sec
-980	[10.30 21:08:23] YodaoDict.exe - proxy.cse.cuhk.edu.hk:8000 close, 441 bytes sent, 687 bytes received, lifetime <1 sec

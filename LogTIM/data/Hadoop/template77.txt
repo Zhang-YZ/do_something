@@ -1,1 +1,0 @@
-6	OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter

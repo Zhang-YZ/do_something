@@ -1,1 +1,0 @@
-1692	- 1131218683 2005.11.05 R11-M1-N4-C:J03-U01 2005-11-05-11.24.43.382408 R11-M1-N4-C:J03-U01 RAS KERNEL INFO 2 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 6

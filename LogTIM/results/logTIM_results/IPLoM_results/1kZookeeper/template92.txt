@@ -1,1 +1,0 @@
-328	2015-07-30 16:18:40,188 - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@793] - Connection request from old client /10.10.34.30:60436; will be dropped if server is in r-o mode

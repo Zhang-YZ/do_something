@@ -1,1 +1,0 @@
-113	[10.30 18:09:06] WeChat.exe - proxy.cse.cuhk.edu.hk:8000 close, 400 bytes sent, 1108 bytes (1.08 KB) received, lifetime <1 sec

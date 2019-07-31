@@ -1,2 +1,0 @@
-111	081110 231911 16933 WARN dfs.DataNode$DataXceiver: 10.251.126.227:50010:Got exception while serving blk_-4181768899028058192 to /10.251.26.177:
-114	081110 233954 17191 WARN dfs.DataNode$DataXceiver: 10.250.7.230:50010:Got exception while serving blk_-7029628814943626474 to /10.251.38.197:

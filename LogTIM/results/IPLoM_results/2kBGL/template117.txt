@@ -1,1 +1,0 @@
-597	- 1120591331 2005.07.05 R32-M0-N4-I:J18-U01 2005-07-05-12.22.11.843446 R32-M0-N4-I:J18-U01 RAS KERNEL INFO ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile

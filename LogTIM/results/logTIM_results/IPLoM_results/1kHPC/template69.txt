@@ -1,1 +1,0 @@
-949	298129 node-87 unix.hw net.niff.up 1081759726 1 NIFF: node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0

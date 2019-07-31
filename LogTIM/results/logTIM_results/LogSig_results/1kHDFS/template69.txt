@@ -1,2 +1,0 @@
-138	081111 023017 27 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: blk_-4269939382058952254 is added to invalidSet of 10.251.203.129:50010
-139	081111 023017 27 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: blk_-6978845808078082463 is added to invalidSet of 10.251.109.209:50010

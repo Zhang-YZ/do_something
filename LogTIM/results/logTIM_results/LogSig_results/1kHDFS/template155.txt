@@ -1,1 +1,0 @@
-484	081111 054018 33 INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.106.37:50010 is added to blk_-4510259260131940043 size 3552141

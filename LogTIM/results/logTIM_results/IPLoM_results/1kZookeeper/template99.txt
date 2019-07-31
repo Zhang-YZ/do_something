@@ -1,3 +1,0 @@
-337	2015-07-30 17:57:44,121 - INFO  [/10.10.34.12:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.13:33209
-378	2015-07-31 15:31:41,457 - INFO  [/10.10.34.12:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.11:59599
-988	2015-07-31 15:15:17,186 - INFO  [/10.10.34.13:3888:QuorumCnxManager$Listener@493] - Received connection request /10.10.34.11:53230

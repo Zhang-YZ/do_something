@@ -1,1 +1,0 @@
-1923	"DMA zone: 4096 pages, LIFO batch:1"

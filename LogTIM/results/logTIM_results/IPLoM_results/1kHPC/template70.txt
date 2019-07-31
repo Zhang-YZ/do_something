@@ -1,1 +1,0 @@
-950	308248 node-203 unix.hw net.niff.up 1082038683 1 NIFF: node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0

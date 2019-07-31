@@ -1,1 +1,0 @@
-978	206244 node-244 unix.hw net.niff.up 1116532845 1 NIFF: node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0

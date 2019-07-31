@@ -1,2 +1,0 @@
-6	Starting the TrustedInstaller main loop.
-960	Starting the TrustedInstaller main loop.

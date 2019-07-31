@@ -1,1 +1,0 @@
-1516	- 1130123101 2005.10.23 R21-M1-N0-C:J10-U11 2005-10-23-20.05.01.813190 R21-M1-N0-C:J10-U11 RAS KERNEL INFO 1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 7

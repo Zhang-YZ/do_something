@@ -1,3 +1,0 @@
-383	2567461 node-C0 domain status 1074098612 1 not responding
-480	235493 node-D6 domain status 1079014470 1 not responding
-678	220122 node-D3 domain status 1132158690 1 not responding

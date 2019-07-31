@@ -1,1 +1,0 @@
-467	2015-07-29 19:21:35,820 - WARN  [RecvWorker:188978561024:QuorumCnxManager$RecvWorker@762] - Connection broken for id 188978561024, my id = 3, error = 

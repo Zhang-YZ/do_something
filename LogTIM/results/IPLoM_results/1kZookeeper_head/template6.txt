@@ -1,3 +1,0 @@
-598	2015-08-07 07:27:47,425 - INFO [WorkerReceiver[myid=1]:FastLeaderElection@542] - Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)
-625	2015-08-20 17:14:12,326 - INFO [WorkerReceiver[myid=1]:FastLeaderElection@542] - Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)
-626	2015-08-20 17:14:23,824 - INFO [WorkerReceiver[myid=1]:FastLeaderElection@542] - Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)

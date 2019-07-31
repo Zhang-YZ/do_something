@@ -1,1 +1,0 @@
-915	2589343 node-241 unix.hw net.niff.up 1074243421 1 NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0

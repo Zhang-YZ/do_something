@@ -1,1 +1,0 @@
-836	081111 085429 25314 INFO dfs.DataNode$PacketResponder: Received block blk_-6719337521981113643 of size 3538321 from /10.250.15.198

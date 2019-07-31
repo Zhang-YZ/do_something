@@ -1,4 +1,0 @@
-40	081110 222512 16222 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_708101772844351082 terminating
-41	081110 222529 15925 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_-5610308397633191834 terminating
-95	081110 230314 16898 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_157913239647511296 terminating
-104	081110 230628 16721 INFO dfs.DataNode$PacketResponder: PacketResponder 0 for block blk_-1250775350296476256 terminating

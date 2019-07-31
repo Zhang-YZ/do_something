@@ -1,2 +1,0 @@
-805	- 1133409475 2005.11.30 R15-M1-NC-I:J18-U01 2005-11-30-19.57.55.220367 R15-M1-NC-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory
-806	- 1133409779 2005.11.30 R13-M1-NC-I:J18-U01 2005-11-30-20.02.59.033978 R13-M1-NC-I:J18-U01 RAS APP FATAL ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory

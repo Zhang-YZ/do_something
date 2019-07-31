@@ -1,2 +1,0 @@
-540	2015-07-30 17:43:58,186 - INFO [QuorumPeer[myid=1]/0:0:0:0:0:0:0:0:2181:Environment@100] - Server environment:user.dir=/
-570	2015-07-30 23:49:40,005 - WARN [RecvWorker:3:QuorumCnxManager$RecvWorker@765] - Interrupting SendWorker

@@ -1,1 +1,0 @@
-1950	- 1133913870 2005.12.06 R01-M0-N0-C:J04-U01 2005-12-06-16.04.30.188673 R01-M0-N0-C:J04-U01 RAS KERNEL INFO critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type

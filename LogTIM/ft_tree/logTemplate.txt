@@ -1,2 +1,0 @@
- times freelistBelowHiPriorityThreshold Suppressed LLC IPP FreeListCount input 
- times freelistBelowHiPriorityThreshold Suppressed LLC IPP FreeListCount interrupt 

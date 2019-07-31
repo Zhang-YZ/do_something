@@ -1,1 +1,0 @@
-1295	Mounted root (ext2 filesystem).

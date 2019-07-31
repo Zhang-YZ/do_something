@@ -1,3 +1,0 @@
-110	081110 231904 17028 WARN dfs.DataNode$DataXceiver: Got exception while serving to
-111	081110 231911 16933 WARN dfs.DataNode$DataXceiver: Got exception while serving to
-114	081110 233954 17191 WARN dfs.DataNode$DataXceiver: Got exception while serving to

@@ -1,1 +1,0 @@
-29	89824 gige4 gige temperature 1109420069 1 critical

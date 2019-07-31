@@ -1,1 +1,0 @@
-37	Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)

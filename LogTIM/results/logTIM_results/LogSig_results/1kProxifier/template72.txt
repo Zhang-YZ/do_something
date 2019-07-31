@@ -1,1 +1,0 @@
-169	[10.30 20:39:46] chrome.exe - proxy.cse.cuhk.edu.hk:8000 close, 2279 bytes (2.22 KB) sent, 279 bytes received, lifetime <1 sec

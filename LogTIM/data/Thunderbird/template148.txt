@@ -1,1 +1,0 @@
-1343	scanning scsi channel 1 [virtual] for logical drives

@@ -1,3 +1,0 @@
-308	[10.30 16:52:25] svchost.exe *64 - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
-534	[10.30 17:16:01] svchost.exe *64 - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS
-942	[10.30 17:55:04] svchost.exe *64 - proxy.cse.cuhk.edu.hk:8000 open through proxy proxy.cse.cuhk.edu.hk:8000 HTTPS

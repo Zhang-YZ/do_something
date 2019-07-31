@@ -1,1 +1,0 @@
-403	081111 044704 19 INFO dfs.FSDataset: Deleting block blk_449049393237281194 file /mnt/hadoop/dfs/data/current/subdir18/blk_449049393237281194

@@ -1,1 +1,0 @@
-389	2015-07-31 21:25:02,006 - INFO  [ProcessThread(sid:2 cport:-1)::PrepRequestProcessor@476] - Processed session termination for sessionid: 0x34ee30a5c530011

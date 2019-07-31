@@ -1,3 +1,0 @@
-578	2015-07-31 11:01:54,714 - INFO [NIOServerCxn.Factory:NIOServerCnxnFactory@197] - Accepted socket connection from
-581	2015-07-31 15:31:40,971 - INFO [Thread-1:QuorumCnxManager$Listener@486] - My election bind port:
-590	2015-07-31 21:23:08,968 - INFO [NIOServerCxn.Factory:NIOServerCnxnFactory@197] - Accepted socket connection from

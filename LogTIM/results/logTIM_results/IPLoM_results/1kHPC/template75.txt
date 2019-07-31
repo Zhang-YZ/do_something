@@ -1,1 +1,0 @@
-958	411578 node-143 unix.hw net.niff.up 1091737151 1 NIFF: node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0

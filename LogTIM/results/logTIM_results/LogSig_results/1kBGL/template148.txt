@@ -1,1 +1,0 @@
-272	- 1124722015 2005.08.22 R24-M1-N4-I:J18-U11 2005-08-22-07.46.55.044922 R24-M1-N4-I:J18-U11 RAS APP FATAL ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory

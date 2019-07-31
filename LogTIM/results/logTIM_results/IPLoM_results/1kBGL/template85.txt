@@ -1,1 +1,0 @@
-962	- 1134117490 2005.12.09 R70-M0-N7-C:J15-U01 2005-12-09-00.38.10.632331 R70-M0-N7-C:J15-U01 RAS KERNEL INFO 1 ddr error(s) detected and corrected on rank 0, symbol 9 over 986 seconds

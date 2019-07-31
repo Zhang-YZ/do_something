@@ -1,5 +1,0 @@
-386	2015-07-31 21:24:54,002 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x24ee30a54f5001d, timeout of 10000ms exceeded
-394	2015-07-31 21:44:42,001 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x24ee30a54f50025, timeout of 10000ms exceeded
-395	2015-07-31 21:44:44,001 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x24ee30a54f50027, timeout of 10000ms exceeded
-396	2015-07-31 21:44:44,002 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x14ee3e057ed002a, timeout of 10000ms exceeded
-397	2015-07-31 21:44:46,001 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x34ee30a5c53002a, timeout of 10000ms exceeded

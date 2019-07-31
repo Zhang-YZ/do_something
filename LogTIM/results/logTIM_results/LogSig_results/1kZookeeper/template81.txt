@@ -1,1 +1,0 @@
-270	2015-07-29 20:15:01,897 - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@197] - Accepted socket connection from /10.10.34.11:51168

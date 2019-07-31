@@ -1,1 +1,0 @@
-980	211427 node-144 unix.hw net.niff.up 1116610182 1 NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0

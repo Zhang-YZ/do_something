@@ -1,1 +1,0 @@
-329	2015-07-30 16:21:28,000 - INFO  [SessionTracker:ZooKeeperServer@325] - Expiring session 0x34ed9ac1c1e008f, timeout of 10000ms exceeded

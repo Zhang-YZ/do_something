@@ -1,1 +1,0 @@
-15	[10.30 18:02:12] firefox.exe - proxy.cse.cuhk.edu.hk:8000 close, 1933 bytes (1.88 KB) sent, 20069 bytes (19.5 KB) received, lifetime 02:00

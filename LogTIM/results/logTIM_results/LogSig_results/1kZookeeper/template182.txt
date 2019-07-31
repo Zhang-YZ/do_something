@@ -1,1 +1,0 @@
-454	2015-08-25 11:14:51,514 - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0

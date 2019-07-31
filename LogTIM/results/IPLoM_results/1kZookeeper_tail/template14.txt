@@ -1,2 +1,0 @@
-378	2015-07-31 15:31:41,457 - INFO [QuorumCnxManager$Listener@493] - Received connection request
-988	2015-07-31 15:15:17,186 - INFO [QuorumCnxManager$Listener@493] - Received connection request

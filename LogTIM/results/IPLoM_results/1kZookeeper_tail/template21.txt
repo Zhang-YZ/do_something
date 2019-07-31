@@ -1,4 +1,0 @@
-369	2015-07-31 11:07:35,024 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
-374	2015-07-31 12:57:00,872 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
-982	2015-07-31 00:16:12,152 - WARN [NIOServerCxn.Factory:NIOServerCnxn@349] - caught end of stream exception
-991	2015-07-31 15:36:23,884 - INFO [QuorumPeer[myid=3]/0:0:0:0:0:0:0:0:2181:Learner@325] - Getting a snapshot from leader

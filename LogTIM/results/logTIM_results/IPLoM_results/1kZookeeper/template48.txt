@@ -1,4 +1,0 @@
-266	2015-07-29 19:54:05,544 - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@793] - Connection request from old client /10.10.34.13:37229; will be dropped if server is in r-o mode
-273	2015-07-29 21:01:50,768 - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@793] - Connection request from old client /10.10.34.25:53326; will be dropped if server is in r-o mode
-291	2015-07-29 23:52:07,913 - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@793] - Connection request from old client /10.10.34.12:54643; will be dropped if server is in r-o mode
-927	2015-07-29 21:34:44,640 - WARN  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@793] - Connection request from old client /10.10.34.12:59230; will be dropped if server is in r-o mode

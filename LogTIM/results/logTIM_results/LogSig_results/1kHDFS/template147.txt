@@ -1,7 +1,0 @@
-411	081111 044759 19 INFO dfs.FSDataset: Deleting block blk_-1368324087589035770 file /mnt/hadoop/dfs/data/current/blk_-1368324087589035770
-415	081111 044822 19 INFO dfs.FSDataset: Deleting block blk_8556592730481313831 file /mnt/hadoop/dfs/data/current/blk_8556592730481313831
-733	081111 075814 19 INFO dfs.FSDataset: Deleting block blk_-6131345369657245178 file /mnt/hadoop/dfs/data/current/blk_-6131345369657245178
-734	081111 075824 19 INFO dfs.FSDataset: Deleting block blk_-3575718350717794894 file /mnt/hadoop/dfs/data/current/blk_-3575718350717794894
-740	081111 075901 19 INFO dfs.FSDataset: Deleting block blk_2489882700357182381 file /mnt/hadoop/dfs/data/current/blk_2489882700357182381
-744	081111 075911 19 INFO dfs.FSDataset: Deleting block blk_4513772639980123655 file /mnt/hadoop/dfs/data/current/blk_4513772639980123655
-746	081111 075915 19 INFO dfs.FSDataset: Deleting block blk_7985460426680885040 file /mnt/hadoop/dfs/data/current/blk_7985460426680885040

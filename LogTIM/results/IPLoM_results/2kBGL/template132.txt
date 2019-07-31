@@ -1,1 +1,0 @@
-1526	- 1130770293 2005.10.31 R74-M1-NC-C:J15-U11 2005-10-31-06.51.33.260350 R74-M1-NC-C:J15-U11 RAS KERNEL INFO 4 ddr errors(s) detected and corrected on rank 0, symbol 24, bit 1

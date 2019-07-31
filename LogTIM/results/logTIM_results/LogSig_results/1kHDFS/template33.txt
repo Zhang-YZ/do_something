@@ -1,1 +1,0 @@
-20	081110 221038 16067 INFO dfs.DataNode$DataXceiver: Receiving block blk_323887415551221572 src: /10.251.39.144:46278 dest: /10.251.39.144:50010

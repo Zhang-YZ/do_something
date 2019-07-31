@@ -1,1 +1,0 @@
-439	081111 050334 20441 INFO dfs.DataNode$DataXceiver: Received block blk_-4411589101766563890 src: /10.250.14.38:37362 dest: /10.250.14.38:50010 of size 67108864

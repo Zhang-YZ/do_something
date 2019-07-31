@@ -1,1 +1,0 @@
-423	2015-08-18 16:09:30,013 - INFO  [ProcessThread(sid:2 cport:-1)::PrepRequestProcessor@476] - Processed session termination for sessionid: 0x14f1724a6e8000d

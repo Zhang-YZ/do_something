@@ -1,1 +1,0 @@
-51	[10.30 18:03:35] Skype.exe - 24.135.95.248:443 close, 131 bytes sent, 153 bytes received, lifetime 00:12

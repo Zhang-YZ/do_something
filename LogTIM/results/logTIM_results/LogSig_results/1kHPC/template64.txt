@@ -1,1 +1,0 @@
-32	84299 gige4 gige temperature 1109002453 1 warning

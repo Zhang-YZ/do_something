@@ -1,1 +1,0 @@
-587	2015-07-31 19:30:07,445 - INFO [QuorumPeer[myid=1]/0:0:0:0:0:0:0:0:2181:Environment@100] - Server environment:host.name=mesos-master-1

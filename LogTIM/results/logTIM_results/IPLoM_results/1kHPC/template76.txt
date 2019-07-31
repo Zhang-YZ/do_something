@@ -1,1 +1,0 @@
-960	434678 node-106 unix.hw net.niff.up 1095875337 1 NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0

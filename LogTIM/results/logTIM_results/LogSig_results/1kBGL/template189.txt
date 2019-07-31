@@ -1,1 +1,0 @@
-759	- 1132232535 2005.11.17 R64-M1-N4-I:J18-U01 2005-11-17-05.02.15.807696 R64-M1-N4-I:J18-U01 RAS APP FATAL ciod: Error loading /bgl/apps/followup/SPaSM_static/SPaSM.460-1115: invalid or missing program image, Permission denied

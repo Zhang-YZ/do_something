@@ -1,1 +1,0 @@
-1	081110 220658 32 INFO dfs.FSNamesystem: BLOCK* NameSystem.delete: blk_7017399031777870797 is added to invalidSet of 10.250.5.161:50010
