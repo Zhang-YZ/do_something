@@ -1,0 +1,144 @@
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllHDFS_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       1340000593
+Compressed: 113936050
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllHDFS_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       1340000593
+Compressed: 153064271
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllZookeeper_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       8024536
+Compressed: 250568
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllZookeeper_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       8024536
+Compressed: 388050
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllLinux_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       2211764
+Compressed: 154754
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllLinux_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       2211764
+Compressed: 238256
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllHadoop_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       29744058
+Compressed: 1490711
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllHadoop_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       29744058
+Compressed: 2384256
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllBGL_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       325914886
+Compressed: 12873149
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllBGL_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       325914886
+Compressed: 21314037
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllProxifier_tail_0.10/rawlog.7z
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       2047821
+Compressed: 143128
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+
+Processing archive: ../LogTIM/data/AllProxifier_tail_0.10/rawlog.zip
+
+Extracting  rawlog.log
+
+Everything is Ok
+
+Size:       2047821
+Compressed: 176103

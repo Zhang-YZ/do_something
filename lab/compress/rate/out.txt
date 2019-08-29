@@ -1,0 +1,120 @@
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllHDFS_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllHDFS_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllLinux_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllLinux_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllZookeeper_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllZookeeper_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllBGL_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllBGL_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllProxifier_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllProxifier_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllHadoop_tail_0.10/rawlog.7z
+
+Compressing  rawlog.log
+
+Everything is Ok
+
+7-Zip [64] 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+p7zip Version 9.20 (locale=en_HK.UTF-8,Utf16=on,HugeFiles=on,24 CPUs)
+Scanning
+
+Creating archive ../../LogTIM/data/AllHadoop_tail_0.10/rawlog.zip
+
+Compressing  rawlog.log
+
+Everything is Ok
